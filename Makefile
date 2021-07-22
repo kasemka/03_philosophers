@@ -2,7 +2,12 @@ NAME = philo
 
 SRC = philo.c\
 ft_atoi.c\
-malloc_fail.c
+malloc_fail.c\
+init_struct.c\
+init_philos.c\
+init_forks.c\
+additional_funcs.c
+
 
 HEADER = philo.h
 OBJ = $(SRC:.c=.o)
@@ -11,10 +16,10 @@ CC = gcc
 FLAGS = -Wall -Wextra -Werror
 
 %.o: %.c $(HEADER)
-		$(CC) $(FLAGS) -c -o $@ $<
+		$(CC) -g $(FLAGS) -c -o $@ $<
 
 $(NAME): $(OBJ)
-		$(CC) $(FLAGS) -o $@ $^ 
+		$(CC) -g $(FLAGS) -o $@ $^ 
 
 all: $(NAME)
 
