@@ -14,5 +14,6 @@ int	init_struct(int argc, char **argv, t_hold *hold)
 	if (argc == 6 && hold->eat_num <= 0)
 		return (1);
 	hold->forks_n = hold->philos_n;
+	hold->is_dead = 0;
 	return (0);
 }

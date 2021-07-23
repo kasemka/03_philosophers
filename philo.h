@@ -13,7 +13,7 @@ typedef struct	s_hold t_hold;
 typedef struct s_philo
 {
 	int					name;
-	int					last_eat;
+	unsigned long long	last_eat;
 	pthread_mutex_t		*fork_left;
 	pthread_mutex_t		*fork_right;
 	pthread_mutex_t		*msg;
@@ -29,18 +29,20 @@ typedef struct	s_hold
 	int					time_eat;
 	int					time_sleep;
 	int					eat_num;
+	unsigned long long	start_time;
 	t_philo				*philos;
 	pthread_mutex_t		*forks;
 	pthread_mutex_t		msg;
+	int					is_dead;
 }	t_hold;
 
 
 
-int	ft_atoi(const char *str);
-int	init_struct(int argc, char **argv, t_hold *hold);
-int	init_philos(t_hold *hold);
-int	init_forks(t_hold *hold);
-int	cur_time_ms(void);
-int	malloc_fail(void);
+int					ft_atoi(const char *str);
+int					init_struct(int argc, char **argv, t_hold *hold);
+int					init_philos(t_hold *hold);
+int					init_forks(t_hold *hold);
+unsigned long long	cur_time_ms(void);
+int					malloc_fail(void);
 
 #endif
