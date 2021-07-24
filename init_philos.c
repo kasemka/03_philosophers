@@ -21,8 +21,9 @@ int	init_philos(t_hold *hold)
 		hold->philos[i].fork_left = &hold->forks[i];
 		hold->philos[i].fork_right = &hold->forks[i + 1];
 		hold->philos[i].msg = &hold->msg;
-		hold->philos[i].main_hold = hold;
-		hold->philos[i].last_eat = hold->start_time;
+		hold->philos[i].died = &hold->died;
+		hold->philos[i].hold = hold;
+		// hold->philos[i].last_eat = hold->start_time;
 		i++;
 	}
 	hold->philos[hold->philos_n - 1].fork_right = &hold->forks[0];
