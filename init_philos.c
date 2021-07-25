@@ -23,6 +23,7 @@ int	init_philos(t_hold *hold)
 		hold->philos[i].msg = &hold->msg;
 		hold->philos[i].died = &hold->died;
 		hold->philos[i].hold = hold;
+		hold->philos[i].eat_num = 0;
 		// hold->philos[i].last_eat = hold->start_time;
 		i++;
 	}

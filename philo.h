@@ -14,6 +14,7 @@ typedef struct s_philo
 {
 	int					name;
 	unsigned long long	last_eat;
+	int					eat_num;
 	pthread_mutex_t		*fork_left;
 	pthread_mutex_t		*fork_right;
 	pthread_mutex_t		*msg;
@@ -44,9 +45,9 @@ int					ft_atoi(const char *str);
 int					init_struct(int argc, char **argv, t_hold *hold);
 int					init_philos(t_hold *hold);
 int					init_forks(t_hold *hold);
-unsigned long long	time_diff(t_philo *philo); //remove
+unsigned long long	time_diff(t_philo *philo); 
 unsigned long long	cur_time_mcs(void);
-unsigned long long	cur_time_ms(void);
 int					malloc_fail(void);
+void				ft_usleep(unsigned long long time);
 
 #endif

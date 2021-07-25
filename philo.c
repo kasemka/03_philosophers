@@ -3,6 +3,11 @@
 void	msg(t_philo *philo, char c)
 {
 	pthread_mutex_lock(philo->msg);
+	if (c == 'd')
+	{
+		philo->hold->is_dead = 1;
+		printf("%llu philo %i died\n", time_diff(philo), philo->name);
+	}
 	if (philo->hold->is_dead == 0)
 	{
 		printf("\033[0;32m");
@@ -20,37 +25,28 @@ void	msg(t_philo *philo, char c)
 	}
 }
 
-// void	eating(t_philo philo)
-// {
-
-// }
-
 void	*living(void* a_philo)
 {
 	t_philo		*philo;
 
 	philo = (t_philo	*)a_philo;
 	if (philo->name % 2 == 0)
-		usleep(50);
-	while (philo->hold->is_dead == 0)
+		ft_usleep(philo->hold->time_eat - 10);
+	while (philo->hold->is_dead == 0)// && philo->eat_num < philo->hold->eat_num)
 	{
-		if (cur_time_mcs() - philo->last_eat > philo->hold->time_die * 1000)
-		{
-			philo->hold->is_dead = 1;
-			printf("%llu philo %i died\n", time_diff(philo), philo->name);
-			return 0;
-		}
+		if (cur_time_mcs() - philo->last_eat > philo->hold->time_die)
+			msg(philo, 'd');
 		pthread_mutex_lock(philo->fork_left);
 		msg(philo, 'l');
 		pthread_mutex_lock(philo->fork_right);
 		msg(philo, 'r');
 		msg(philo, 'e');
 		philo->last_eat = cur_time_mcs();
-		usleep(philo->hold->time_eat * 1000);
+		ft_usleep(philo->hold->time_eat);
 		pthread_mutex_unlock(philo->fork_left);
 		pthread_mutex_unlock(philo->fork_right);
 		msg(philo, 's');
-		usleep(philo->hold->time_sleep * 1000);
+		ft_usleep(philo->hold->time_sleep);
 		msg(philo, 't');
 	}
 	return 0;
@@ -67,7 +63,7 @@ void	start_time(t_hold *hold)
 	{
 		hold->philos[i].last_eat = cur_time_mcs(); // microsec
 		i++;
-		usleep(50);
+		usleep(10);
 	}
 }
 
