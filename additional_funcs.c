@@ -20,7 +20,7 @@ unsigned long long	time_diff(t_philo *philo)
 	return (diff);
 } 
 
-// usleep for goal_time - current_time
+// usleep for goal_time - current_time in microseconds
 void ft_usleep(unsigned long long time)
 {
 	unsigned long long	goal_time;

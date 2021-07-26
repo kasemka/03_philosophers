@@ -31,11 +31,13 @@ typedef struct	s_hold
 	unsigned long long	time_eat;
 	int					time_sleep;
 	int					eat_num;
+	int					philos_num_eat_min;
 	unsigned long long	start_time;
 	t_philo				*philos;
 	pthread_mutex_t		*forks;
 	pthread_mutex_t		msg;
 	pthread_mutex_t		died;
+	pthread_t			starving;
 	int					is_dead;
 }	t_hold;
 

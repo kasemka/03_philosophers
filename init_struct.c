@@ -18,5 +18,6 @@ int	init_struct(int argc, char **argv, t_hold *hold)
 		return (1);
 	hold->forks_n = hold->philos_n;
 	hold->is_dead = 0;
+	hold->philos_num_eat_min = 0;
 	return (0);
 }
