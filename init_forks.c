@@ -17,4 +17,3 @@ int	init_forks(t_hold *hold)
 	hold->forks = forks_arr;
 	return (0);
 }
-

@@ -27,5 +27,5 @@ void ft_usleep(unsigned long long time)
 
 	goal_time = cur_time_mcs() + time;
 	while (cur_time_mcs() < goal_time)
-		usleep(1);
+		usleep(50);
 }

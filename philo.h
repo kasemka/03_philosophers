@@ -36,7 +36,6 @@ typedef struct	s_hold
 	t_philo				*philos;
 	pthread_mutex_t		*forks;
 	pthread_mutex_t		msg;
-	pthread_mutex_t		died;
 	pthread_t			starving;
 	int					is_dead;
 }	t_hold;

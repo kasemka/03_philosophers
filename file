@@ -1,0 +1,3592 @@
+[0;32m0 philo 1 has taken a left fork
+[0;32m0 philo 1 has taken a right fork
+[0;32m0 philo 1 is eating
+[0;32m0 philo 3 has taken a left fork
+[0;32m0 philo 3 has taken a right fork
+[0;32m0 philo 3 is eating
+[0;32m0 philo 5 has taken a left fork
+[0;32m0 philo 5 has taken a right fork
+[0;32m0 philo 5 is eating
+[0;32m0 philo 7 has taken a left fork
+[0;32m0 philo 7 has taken a right fork
+[0;32m0 philo 7 is eating
+[0;32m1 philo 9 has taken a left fork
+[0;32m1 philo 9 has taken a right fork
+[0;32m1 philo 9 is eating
+[0;32m1 philo 11 has taken a left fork
+[0;32m1 philo 11 has taken a right fork
+[0;32m1 philo 11 is eating
+[0;32m1 philo 13 has taken a left fork
+[0;32m1 philo 13 has taken a right fork
+[0;32m1 philo 13 is eating
+[0;32m1 philo 15 has taken a left fork
+[0;32m1 philo 15 has taken a right fork
+[0;32m1 philo 15 is eating
+[0;32m2 philo 17 has taken a left fork
+[0;32m2 philo 17 has taken a right fork
+[0;32m2 philo 17 is eating
+[0;32m2 philo 19 has taken a left fork
+[0;32m2 philo 19 has taken a right fork
+[0;32m2 philo 19 is eating
+[0;32m2 philo 21 has taken a left fork
+[0;32m2 philo 21 has taken a right fork
+[0;32m2 philo 21 is eating
+[0;32m2 philo 23 has taken a left fork
+[0;32m2 philo 23 has taken a right fork
+[0;32m2 philo 23 is eating
+[0;32m3 philo 25 has taken a left fork
+[0;32m3 philo 25 has taken a right fork
+[0;32m3 philo 25 is eating
+[0;32m3 philo 27 has taken a left fork
+[0;32m3 philo 27 has taken a right fork
+[0;32m3 philo 27 is eating
+[0;32m3 philo 29 has taken a left fork
+[0;32m3 philo 29 has taken a right fork
+[0;32m3 philo 29 is eating
+[0;32m3 philo 31 has taken a left fork
+[0;32m3 philo 31 has taken a right fork
+[0;32m3 philo 31 is eating
+[0;32m4 philo 33 has taken a left fork
+[0;32m4 philo 33 has taken a right fork
+[0;32m4 philo 33 is eating
+[0;32m4 philo 35 has taken a left fork
+[0;32m4 philo 35 has taken a right fork
+[0;32m4 philo 35 is eating
+[0;32m4 philo 37 has taken a left fork
+[0;32m4 philo 37 has taken a right fork
+[0;32m4 philo 37 is eating
+[0;32m5 philo 39 has taken a left fork
+[0;32m5 philo 39 has taken a right fork
+[0;32m5 philo 39 is eating
+[0;32m5 philo 41 has taken a left fork
+[0;32m5 philo 41 has taken a right fork
+[0;32m5 philo 41 is eating
+[0;32m5 philo 43 has taken a left fork
+[0;32m5 philo 43 has taken a right fork
+[0;32m5 philo 43 is eating
+[0;32m5 philo 45 has taken a left fork
+[0;32m5 philo 45 has taken a right fork
+[0;32m5 philo 45 is eating
+[0;32m6 philo 47 has taken a left fork
+[0;32m6 philo 47 has taken a right fork
+[0;32m6 philo 47 is eating
+[0;32m6 philo 49 has taken a left fork
+[0;32m6 philo 49 has taken a right fork
+[0;32m6 philo 49 is eating
+[0;32m6 philo 51 has taken a left fork
+[0;32m6 philo 51 has taken a right fork
+[0;32m6 philo 51 is eating
+[0;32m6 philo 53 has taken a left fork
+[0;32m6 philo 53 has taken a right fork
+[0;32m6 philo 53 is eating
+[0;32m7 philo 55 has taken a left fork
+[0;32m7 philo 55 has taken a right fork
+[0;32m7 philo 55 is eating
+[0;32m7 philo 57 has taken a left fork
+[0;32m7 philo 57 has taken a right fork
+[0;32m7 philo 57 is eating
+[0;32m7 philo 59 has taken a left fork
+[0;32m7 philo 59 has taken a right fork
+[0;32m7 philo 59 is eating
+[0;32m8 philo 61 has taken a left fork
+[0;32m8 philo 61 has taken a right fork
+[0;32m8 philo 61 is eating
+[0;32m8 philo 63 has taken a left fork
+[0;32m8 philo 63 has taken a right fork
+[0;32m8 philo 63 is eating
+[0;32m8 philo 65 has taken a left fork
+[0;32m8 philo 65 has taken a right fork
+[0;32m8 philo 65 is eating
+[0;32m8 philo 67 has taken a left fork
+[0;32m8 philo 67 has taken a right fork
+[0;32m8 philo 67 is eating
+[0;32m9 philo 69 has taken a left fork
+[0;32m9 philo 69 has taken a right fork
+[0;32m9 philo 69 is eating
+[0;32m9 philo 71 has taken a left fork
+[0;32m9 philo 71 has taken a right fork
+[0;32m9 philo 71 is eating
+[0;32m9 philo 73 has taken a left fork
+[0;32m9 philo 73 has taken a right fork
+[0;32m9 philo 73 is eating
+[0;32m9 philo 75 has taken a left fork
+[0;32m9 philo 75 has taken a right fork
+[0;32m10 philo 75 is eating
+[0;32m10 philo 77 has taken a left fork
+[0;32m10 philo 77 has taken a right fork
+[0;32m10 philo 77 is eating
+[0;32m10 philo 79 has taken a left fork
+[0;32m10 philo 79 has taken a right fork
+[0;32m10 philo 79 is eating
+[0;32m10 philo 81 has taken a left fork
+[0;32m10 philo 81 has taken a right fork
+[0;32m10 philo 81 is eating
+[0;32m11 philo 83 has taken a left fork
+[0;32m11 philo 83 has taken a right fork
+[0;32m11 philo 83 is eating
+[0;32m11 philo 85 has taken a left fork
+[0;32m11 philo 85 has taken a right fork
+[0;32m11 philo 85 is eating
+[0;32m11 philo 87 has taken a left fork
+[0;32m11 philo 87 has taken a right fork
+[0;32m11 philo 87 is eating
+[0;32m12 philo 89 has taken a left fork
+[0;32m12 philo 89 has taken a right fork
+[0;32m12 philo 89 is eating
+[0;32m12 philo 91 has taken a left fork
+[0;32m12 philo 91 has taken a right fork
+[0;32m12 philo 91 is eating
+[0;32m12 philo 93 has taken a left fork
+[0;32m12 philo 93 has taken a right fork
+[0;32m12 philo 93 is eating
+[0;32m13 philo 95 has taken a left fork
+[0;32m13 philo 95 has taken a right fork
+[0;32m13 philo 95 is eating
+[0;32m13 philo 97 has taken a left fork
+[0;32m13 philo 97 has taken a right fork
+[0;32m13 philo 97 is eating
+[0;32m13 philo 99 has taken a left fork
+[0;32m13 philo 99 has taken a right fork
+[0;32m13 philo 99 is eating
+[0;32m200 philo 1 is sleeping
+[0;32m200 philo 2 has taken a left fork
+[0;32m200 philo 3 is sleeping
+[0;32m200 philo 2 has taken a right fork
+[0;32m200 philo 2 is eating
+[0;32m200 philo 4 has taken a left fork
+[0;32m200 philo 5 is sleeping
+[0;32m200 philo 4 has taken a right fork
+[0;32m200 philo 4 is eating
+[0;32m200 philo 6 has taken a left fork
+[0;32m200 philo 7 is sleeping
+[0;32m200 philo 6 has taken a right fork
+[0;32m200 philo 6 is eating
+[0;32m201 philo 8 has taken a left fork
+[0;32m201 philo 9 is sleeping
+[0;32m201 philo 8 has taken a right fork
+[0;32m201 philo 8 is eating
+[0;32m201 philo 10 has taken a left fork
+[0;32m201 philo 11 is sleeping
+[0;32m201 philo 10 has taken a right fork
+[0;32m201 philo 10 is eating
+[0;32m201 philo 12 has taken a left fork
+[0;32m201 philo 13 is sleeping
+[0;32m201 philo 12 has taken a right fork
+[0;32m201 philo 12 is eating
+[0;32m201 philo 14 has taken a left fork
+[0;32m201 philo 15 is sleeping
+[0;32m201 philo 14 has taken a right fork
+[0;32m201 philo 14 is eating
+[0;32m202 philo 16 has taken a left fork
+[0;32m202 philo 17 is sleeping
+[0;32m202 philo 16 has taken a right fork
+[0;32m202 philo 16 is eating
+[0;32m202 philo 18 has taken a left fork
+[0;32m202 philo 19 is sleeping
+[0;32m202 philo 18 has taken a right fork
+[0;32m202 philo 18 is eating
+[0;32m202 philo 20 has taken a left fork
+[0;32m202 philo 21 is sleeping
+[0;32m202 philo 20 has taken a right fork
+[0;32m202 philo 20 is eating
+[0;32m202 philo 22 has taken a left fork
+[0;32m203 philo 23 is sleeping
+[0;32m203 philo 22 has taken a right fork
+[0;32m203 philo 22 is eating
+[0;32m203 philo 24 has taken a left fork
+[0;32m203 philo 25 is sleeping
+[0;32m203 philo 24 has taken a right fork
+[0;32m203 philo 24 is eating
+[0;32m203 philo 26 has taken a left fork
+[0;32m203 philo 27 is sleeping
+[0;32m203 philo 26 has taken a right fork
+[0;32m203 philo 26 is eating
+[0;32m203 philo 28 has taken a left fork
+[0;32m203 philo 29 is sleeping
+[0;32m203 philo 28 has taken a right fork
+[0;32m203 philo 28 is eating
+[0;32m203 philo 30 has taken a left fork
+[0;32m204 philo 31 is sleeping
+[0;32m204 philo 30 has taken a right fork
+[0;32m204 philo 30 is eating
+[0;32m204 philo 32 has taken a left fork
+[0;32m204 philo 33 is sleeping
+[0;32m204 philo 32 has taken a right fork
+[0;32m204 philo 32 is eating
+[0;32m204 philo 34 has taken a left fork
+[0;32m204 philo 35 is sleeping
+[0;32m204 philo 34 has taken a right fork
+[0;32m204 philo 34 is eating
+[0;32m204 philo 36 has taken a left fork
+[0;32m204 philo 37 is sleeping
+[0;32m204 philo 36 has taken a right fork
+[0;32m204 philo 36 is eating
+[0;32m204 philo 38 has taken a left fork
+[0;32m205 philo 39 is sleeping
+[0;32m205 philo 38 has taken a right fork
+[0;32m205 philo 38 is eating
+[0;32m205 philo 40 has taken a left fork
+[0;32m205 philo 41 is sleeping
+[0;32m205 philo 40 has taken a right fork
+[0;32m205 philo 40 is eating
+[0;32m205 philo 42 has taken a left fork
+[0;32m205 philo 43 is sleeping
+[0;32m205 philo 42 has taken a right fork
+[0;32m205 philo 42 is eating
+[0;32m205 philo 44 has taken a left fork
+[0;32m205 philo 45 is sleeping
+[0;32m205 philo 44 has taken a right fork
+[0;32m205 philo 44 is eating
+[0;32m206 philo 46 has taken a left fork
+[0;32m206 philo 47 is sleeping
+[0;32m206 philo 46 has taken a right fork
+[0;32m206 philo 46 is eating
+[0;32m206 philo 48 has taken a left fork
+[0;32m206 philo 49 is sleeping
+[0;32m206 philo 48 has taken a right fork
+[0;32m206 philo 48 is eating
+[0;32m206 philo 50 has taken a left fork
+[0;32m206 philo 51 is sleeping
+[0;32m206 philo 50 has taken a right fork
+[0;32m206 philo 50 is eating
+[0;32m206 philo 52 has taken a left fork
+[0;32m207 philo 53 is sleeping
+[0;32m207 philo 52 has taken a right fork
+[0;32m207 philo 52 is eating
+[0;32m207 philo 54 has taken a left fork
+[0;32m207 philo 55 is sleeping
+[0;32m207 philo 54 has taken a right fork
+[0;32m207 philo 54 is eating
+[0;32m207 philo 56 has taken a left fork
+[0;32m207 philo 57 is sleeping
+[0;32m207 philo 56 has taken a right fork
+[0;32m207 philo 56 is eating
+[0;32m207 philo 58 has taken a left fork
+[0;32m207 philo 59 is sleeping
+[0;32m207 philo 58 has taken a right fork
+[0;32m207 philo 58 is eating
+[0;32m207 philo 60 has taken a left fork
+[0;32m208 philo 61 is sleeping
+[0;32m208 philo 60 has taken a right fork
+[0;32m208 philo 60 is eating
+[0;32m208 philo 62 has taken a left fork
+[0;32m208 philo 63 is sleeping
+[0;32m208 philo 62 has taken a right fork
+[0;32m208 philo 62 is eating
+[0;32m208 philo 64 has taken a left fork
+[0;32m208 philo 65 is sleeping
+[0;32m208 philo 64 has taken a right fork
+[0;32m208 philo 64 is eating
+[0;32m208 philo 66 has taken a left fork
+[0;32m208 philo 67 is sleeping
+[0;32m208 philo 66 has taken a right fork
+[0;32m208 philo 66 is eating
+[0;32m208 philo 68 has taken a left fork
+[0;32m209 philo 69 is sleeping
+[0;32m209 philo 68 has taken a right fork
+[0;32m209 philo 68 is eating
+[0;32m209 philo 70 has taken a left fork
+[0;32m209 philo 71 is sleeping
+[0;32m209 philo 70 has taken a right fork
+[0;32m209 philo 70 is eating
+[0;32m209 philo 72 has taken a left fork
+[0;32m209 philo 73 is sleeping
+[0;32m209 philo 72 has taken a right fork
+[0;32m209 philo 72 is eating
+[0;32m209 philo 74 has taken a left fork
+[0;32m210 philo 77 is sleeping
+[0;32m210 philo 78 has taken a left fork
+[0;32m210 philo 75 is sleeping
+[0;32m210 philo 74 has taken a right fork
+[0;32m210 philo 74 is eating
+[0;32m210 philo 76 has taken a left fork
+[0;32m210 philo 76 has taken a right fork
+[0;32m210 philo 76 is eating
+[0;32m210 philo 79 is sleeping
+[0;32m210 philo 78 has taken a right fork
+[0;32m210 philo 78 is eating
+[0;32m210 philo 80 has taken a left fork
+[0;32m210 philo 81 is sleeping
+[0;32m210 philo 80 has taken a right fork
+[0;32m210 philo 80 is eating
+[0;32m211 philo 82 has taken a left fork
+[0;32m211 philo 83 is sleeping
+[0;32m211 philo 82 has taken a right fork
+[0;32m211 philo 82 is eating
+[0;32m211 philo 84 has taken a left fork
+[0;32m211 philo 85 is sleeping
+[0;32m211 philo 84 has taken a right fork
+[0;32m211 philo 84 is eating
+[0;32m211 philo 86 has taken a left fork
+[0;32m211 philo 87 is sleeping
+[0;32m211 philo 86 has taken a right fork
+[0;32m211 philo 86 is eating
+[0;32m212 philo 88 has taken a left fork
+[0;32m212 philo 89 is sleeping
+[0;32m212 philo 88 has taken a right fork
+[0;32m212 philo 88 is eating
+[0;32m212 philo 90 has taken a left fork
+[0;32m212 philo 91 is sleeping
+[0;32m212 philo 90 has taken a right fork
+[0;32m212 philo 90 is eating
+[0;32m212 philo 92 has taken a left fork
+[0;32m212 philo 93 is sleeping
+[0;32m212 philo 92 has taken a right fork
+[0;32m212 philo 92 is eating
+[0;32m213 philo 94 has taken a left fork
+[0;32m213 philo 95 is sleeping
+[0;32m213 philo 94 has taken a right fork
+[0;32m213 philo 94 is eating
+[0;32m213 philo 96 has taken a left fork
+[0;32m213 philo 97 is sleeping
+[0;32m213 philo 96 has taken a right fork
+[0;32m213 philo 96 is eating
+[0;32m213 philo 98 has taken a left fork
+[0;32m213 philo 99 is sleeping
+[0;32m213 philo 98 has taken a right fork
+[0;32m213 philo 98 is eating
+[0;32m213 philo 100 has taken a left fork
+[0;32m213 philo 100 has taken a right fork
+[0;32m213 philo 100 is eating
+[0;32m400 philo 1 is thinking
+[0;32m400 philo 3 is thinking
+[0;32m400 philo 2 is sleeping
+[0;32m400 philo 3 has taken a left fork
+[0;32m400 philo 4 is sleeping
+[0;32m400 philo 3 has taken a right fork
+[0;32m400 philo 3 is eating
+[0;32m400 philo 5 is thinking
+[0;32m400 philo 5 has taken a left fork
+[0;32m400 philo 7 is thinking
+[0;32m400 philo 7 has taken a left fork
+[0;32m400 philo 6 is sleeping
+[0;32m400 philo 5 has taken a right fork
+[0;32m401 philo 5 is eating
+[0;32m401 philo 9 is thinking
+[0;32m401 philo 8 is sleeping
+[0;32m401 philo 7 has taken a right fork
+[0;32m401 philo 7 is eating
+[0;32m401 philo 9 has taken a left fork
+[0;32m401 philo 11 is thinking
+[0;32m401 philo 10 is sleeping
+[0;32m401 philo 11 has taken a left fork
+[0;32m401 philo 9 has taken a right fork
+[0;32m401 philo 9 is eating
+[0;32m401 philo 13 is thinking
+[0;32m401 philo 12 is sleeping
+[0;32m401 philo 11 has taken a right fork
+[0;32m401 philo 11 is eating
+[0;32m401 philo 13 has taken a left fork
+[0;32m401 philo 15 is thinking
+[0;32m402 philo 14 is sleeping
+[0;32m402 philo 13 has taken a right fork
+[0;32m402 philo 13 is eating
+[0;32m402 philo 15 has taken a left fork
+[0;32m402 philo 17 is thinking
+[0;32m402 philo 16 is sleeping
+[0;32m402 philo 15 has taken a right fork
+[0;32m402 philo 15 is eating
+[0;32m402 philo 17 has taken a left fork
+[0;32m402 philo 18 is sleeping
+[0;32m402 philo 17 has taken a right fork
+[0;32m402 philo 17 is eating
+[0;32m402 philo 19 is thinking
+[0;32m402 philo 19 has taken a left fork
+[0;32m402 philo 21 is thinking
+[0;32m402 philo 19 has taken a right fork
+[0;32m402 philo 21 has taken a left fork
+[0;32m402 philo 20 is sleeping
+[0;32m402 philo 19 is eating
+[0;32m403 philo 23 is thinking
+[0;32m403 philo 22 is sleeping
+[0;32m403 philo 21 has taken a right fork
+[0;32m403 philo 21 is eating
+[0;32m403 philo 23 has taken a left fork
+[0;32m403 philo 25 is thinking
+[0;32m403 philo 24 is sleeping
+[0;32m403 philo 23 has taken a right fork
+[0;32m403 philo 23 is eating
+[0;32m403 philo 25 has taken a left fork
+[0;32m403 philo 27 is thinking
+[0;32m403 philo 26 is sleeping
+[0;32m403 philo 25 has taken a right fork
+[0;32m403 philo 25 is eating
+[0;32m403 philo 27 has taken a left fork
+[0;32m403 philo 28 is sleeping
+[0;32m403 philo 27 has taken a right fork
+[0;32m403 philo 27 is eating
+[0;32m403 philo 29 is thinking
+[0;32m403 philo 29 has taken a left fork
+[0;32m404 philo 31 is thinking
+[0;32m404 philo 30 is sleeping
+[0;32m404 philo 29 has taken a right fork
+[0;32m404 philo 29 is eating
+[0;32m404 philo 31 has taken a left fork
+[0;32m404 philo 33 is thinking
+[0;32m404 philo 32 is sleeping
+[0;32m404 philo 31 has taken a right fork
+[0;32m404 philo 31 is eating
+[0;32m404 philo 33 has taken a left fork
+[0;32m404 philo 34 is sleeping
+[0;32m404 philo 35 is thinking
+[0;32m404 philo 35 has taken a left fork
+[0;32m404 philo 33 has taken a right fork
+[0;32m404 philo 33 is eating
+[0;32m404 philo 37 is thinking
+[0;32m404 philo 36 is sleeping
+[0;32m404 philo 35 has taken a right fork
+[0;32m404 philo 35 is eating
+[0;32m404 philo 37 has taken a left fork
+[0;32m405 philo 39 is thinking
+[0;32m405 philo 37 has taken a right fork
+[0;32m405 philo 37 is eating
+[0;32m405 philo 38 is sleeping
+[0;32m405 philo 39 has taken a left fork
+[0;32m405 philo 41 is thinking
+[0;32m405 philo 40 is sleeping
+[0;32m405 philo 39 has taken a right fork
+[0;32m405 philo 39 is eating
+[0;32m405 philo 41 has taken a left fork
+[0;32m405 philo 43 is thinking
+[0;32m405 philo 42 is sleeping
+[0;32m405 philo 43 has taken a left fork
+[0;32m405 philo 41 has taken a right fork
+[0;32m405 philo 41 is eating
+[0;32m405 philo 45 is thinking
+[0;32m405 philo 44 is sleeping
+[0;32m405 philo 43 has taken a right fork
+[0;32m405 philo 43 is eating
+[0;32m405 philo 45 has taken a left fork
+[0;32m406 philo 47 is thinking
+[0;32m406 philo 46 is sleeping
+[0;32m406 philo 45 has taken a right fork
+[0;32m406 philo 45 is eating
+[0;32m406 philo 47 has taken a left fork
+[0;32m406 philo 49 is thinking
+[0;32m406 philo 48 is sleeping
+[0;32m406 philo 47 has taken a right fork
+[0;32m406 philo 47 is eating
+[0;32m406 philo 49 has taken a left fork
+[0;32m406 philo 50 is sleeping
+[0;32m406 philo 49 has taken a right fork
+[0;32m406 philo 49 is eating
+[0;32m406 philo 51 is thinking
+[0;32m406 philo 51 has taken a left fork
+[0;32m407 philo 52 is sleeping
+[0;32m407 philo 51 has taken a right fork
+[0;32m407 philo 51 is eating
+[0;32m407 philo 53 is thinking
+[0;32m407 philo 53 has taken a left fork
+[0;32m407 philo 54 is sleeping
+[0;32m407 philo 53 has taken a right fork
+[0;32m407 philo 53 is eating
+[0;32m407 philo 55 is thinking
+[0;32m407 philo 55 has taken a left fork
+[0;32m407 philo 56 is sleeping
+[0;32m407 philo 55 has taken a right fork
+[0;32m407 philo 55 is eating
+[0;32m407 philo 57 is thinking
+[0;32m407 philo 57 has taken a left fork
+[0;32m407 philo 58 is sleeping
+[0;32m407 philo 59 is thinking
+[0;32m407 philo 59 has taken a left fork
+[0;32m407 philo 57 has taken a right fork
+[0;32m407 philo 57 is eating
+[0;32m408 philo 61 is thinking
+[0;32m408 philo 60 is sleeping
+[0;32m408 philo 59 has taken a right fork
+[0;32m408 philo 59 is eating
+[0;32m408 philo 61 has taken a left fork
+[0;32m408 philo 63 is thinking
+[0;32m408 philo 62 is sleeping
+[0;32m408 philo 61 has taken a right fork
+[0;32m408 philo 61 is eating
+[0;32m408 philo 63 has taken a left fork
+[0;32m408 philo 64 is sleeping
+[0;32m408 philo 63 has taken a right fork
+[0;32m408 philo 63 is eating
+[0;32m408 philo 65 is thinking
+[0;32m408 philo 65 has taken a left fork
+[0;32m408 philo 67 is thinking
+[0;32m408 philo 66 is sleeping
+[0;32m408 philo 65 has taken a right fork
+[0;32m408 philo 65 is eating
+[0;32m408 philo 67 has taken a left fork
+[0;32m409 philo 69 is thinking
+[0;32m409 philo 68 is sleeping
+[0;32m409 philo 67 has taken a right fork
+[0;32m409 philo 67 is eating
+[0;32m409 philo 69 has taken a left fork
+[0;32m409 philo 70 is sleeping
+[0;32m409 philo 69 has taken a right fork
+[0;32m409 philo 69 is eating
+[0;32m409 philo 71 is thinking
+[0;32m409 philo 71 has taken a left fork
+[0;32m409 philo 73 is thinking
+[0;32m409 philo 72 is sleeping
+[0;32m409 philo 73 has taken a left fork
+[0;32m409 philo 71 has taken a right fork
+[0;32m409 philo 71 is eating
+[0;32m410 philo 77 is thinking
+[0;32m410 philo 76 is sleeping
+[0;32m410 philo 77 has taken a left fork
+[0;32m410 philo 75 is thinking
+[0;32m410 philo 74 is sleeping
+[0;32m410 philo 73 has taken a right fork
+[0;32m410 philo 73 is eating
+[0;32m410 philo 75 has taken a left fork
+[0;32m410 philo 75 has taken a right fork
+[0;32m410 philo 75 is eating
+[0;32m410 philo 79 is thinking
+[0;32m410 philo 78 is sleeping
+[0;32m410 philo 77 has taken a right fork
+[0;32m410 philo 77 is eating
+[0;32m410 philo 79 has taken a left fork
+[0;32m410 philo 80 is sleeping
+[0;32m410 philo 79 has taken a right fork
+[0;32m410 philo 79 is eating
+[0;32m410 philo 81 is thinking
+[0;32m410 philo 81 has taken a left fork
+[0;32m411 philo 83 is thinking
+[0;32m411 philo 82 is sleeping
+[0;32m411 philo 81 has taken a right fork
+[0;32m411 philo 81 is eating
+[0;32m411 philo 83 has taken a left fork
+[0;32m411 philo 84 is sleeping
+[0;32m411 philo 83 has taken a right fork
+[0;32m411 philo 83 is eating
+[0;32m411 philo 85 is thinking
+[0;32m411 philo 85 has taken a left fork
+[0;32m411 philo 87 is thinking
+[0;32m411 philo 85 has taken a right fork
+[0;32m411 philo 85 is eating
+[0;32m411 philo 86 is sleeping
+[0;32m411 philo 87 has taken a left fork
+[0;32m412 philo 89 is thinking
+[0;32m412 philo 88 is sleeping
+[0;32m412 philo 87 has taken a right fork
+[0;32m412 philo 87 is eating
+[0;32m412 philo 89 has taken a left fork
+[0;32m412 philo 91 is thinking
+[0;32m412 philo 90 is sleeping
+[0;32m412 philo 91 has taken a left fork
+[0;32m412 philo 89 has taken a right fork
+[0;32m412 philo 89 is eating
+[0;32m412 philo 93 is thinking
+[0;32m412 philo 91 has taken a right fork
+[0;32m412 philo 91 is eating
+[0;32m412 philo 93 has taken a left fork
+[0;32m412 philo 92 is sleeping
+[0;32m413 philo 95 is thinking
+[0;32m413 philo 94 is sleeping
+[0;32m413 philo 95 has taken a left fork
+[0;32m413 philo 93 has taken a right fork
+[0;32m413 philo 93 is eating
+[0;32m413 philo 97 is thinking
+[0;32m413 philo 96 is sleeping
+[0;32m413 philo 95 has taken a right fork
+[0;32m413 philo 95 is eating
+[0;32m413 philo 97 has taken a left fork
+[0;32m413 philo 99 is thinking
+[0;32m413 philo 98 is sleeping
+[0;32m413 philo 99 has taken a left fork
+[0;32m413 philo 97 has taken a right fork
+[0;32m413 philo 97 is eating
+[0;32m413 philo 100 is sleeping
+[0;32m413 philo 99 has taken a right fork
+[0;32m413 philo 99 is eating
+[0;32m413 philo 1 has taken a left fork
+[0;32m413 philo 1 has taken a right fork
+[0;32m413 philo 1 is eating
+[0;32m600 philo 2 is thinking
+[0;32m600 philo 3 is sleeping
+[0;32m600 philo 4 is thinking
+[0;32m600 philo 4 has taken a left fork
+[0;32m600 philo 6 is thinking
+[0;32m601 philo 4 has taken a right fork
+[0;32m601 philo 5 is sleeping
+[0;32m601 philo 6 has taken a left fork
+[0;32m601 philo 4 is eating
+[0;32m601 philo 7 is sleeping
+[0;32m601 philo 6 has taken a right fork
+[0;32m601 philo 6 is eating
+[0;32m601 philo 8 is thinking
+[0;32m601 philo 8 has taken a left fork
+[0;32m601 philo 10 is thinking
+[0;32m601 philo 9 is sleeping
+[0;32m601 philo 10 has taken a left fork
+[0;32m601 philo 8 has taken a right fork
+[0;32m601 philo 8 is eating
+[0;32m601 philo 11 is sleeping
+[0;32m601 philo 10 has taken a right fork
+[0;32m601 philo 10 is eating
+[0;32m601 philo 12 is thinking
+[0;32m601 philo 12 has taken a left fork
+[0;32m602 philo 13 is sleeping
+[0;32m602 philo 12 has taken a right fork
+[0;32m602 philo 12 is eating
+[0;32m602 philo 14 is thinking
+[0;32m602 philo 14 has taken a left fork
+[0;32m602 philo 16 is thinking
+[0;32m602 philo 15 is sleeping
+[0;32m602 philo 14 has taken a right fork
+[0;32m602 philo 14 is eating
+[0;32m602 philo 16 has taken a left fork
+[0;32m602 philo 18 is thinking
+[0;32m602 philo 17 is sleeping
+[0;32m602 philo 16 has taken a right fork
+[0;32m602 philo 16 is eating
+[0;32m602 philo 18 has taken a left fork
+[0;32m602 philo 20 is thinking
+[0;32m602 philo 18 has taken a right fork
+[0;32m602 philo 20 has taken a left fork
+[0;32m602 philo 19 is sleeping
+[0;32m602 philo 18 is eating
+[0;32m603 philo 22 is thinking
+[0;32m603 philo 21 is sleeping
+[0;32m603 philo 20 has taken a right fork
+[0;32m603 philo 20 is eating
+[0;32m603 philo 22 has taken a left fork
+[0;32m603 philo 24 is thinking
+[0;32m603 philo 23 is sleeping
+[0;32m603 philo 22 has taken a right fork
+[0;32m603 philo 22 is eating
+[0;32m603 philo 24 has taken a left fork
+[0;32m603 philo 26 is thinking
+[0;32m603 philo 25 is sleeping
+[0;32m603 philo 24 has taken a right fork
+[0;32m603 philo 24 is eating
+[0;32m603 philo 26 has taken a left fork
+[0;32m603 philo 28 is thinking
+[0;32m603 philo 27 is sleeping
+[0;32m603 philo 26 has taken a right fork
+[0;32m603 philo 26 is eating
+[0;32m603 philo 28 has taken a left fork
+[0;32m604 philo 30 is thinking
+[0;32m604 philo 29 is sleeping
+[0;32m604 philo 28 has taken a right fork
+[0;32m604 philo 28 is eating
+[0;32m604 philo 30 has taken a left fork
+[0;32m604 philo 32 is thinking
+[0;32m604 philo 31 is sleeping
+[0;32m604 philo 30 has taken a right fork
+[0;32m604 philo 30 is eating
+[0;32m604 philo 32 has taken a left fork
+[0;32m604 philo 34 is thinking
+[0;32m604 philo 33 is sleeping
+[0;32m604 philo 32 has taken a right fork
+[0;32m604 philo 32 is eating
+[0;32m604 philo 34 has taken a left fork
+[0;32m604 philo 36 is thinking
+[0;32m604 philo 35 is sleeping
+[0;32m605 philo 34 has taken a right fork
+[0;32m605 philo 34 is eating
+[0;32m605 philo 36 has taken a left fork
+[0;32m605 philo 37 is sleeping
+[0;32m605 philo 36 has taken a right fork
+[0;32m605 philo 36 is eating
+[0;32m605 philo 38 is thinking
+[0;32m605 philo 38 has taken a left fork
+[0;32m605 philo 39 is sleeping
+[0;32m605 philo 38 has taken a right fork
+[0;32m605 philo 38 is eating
+[0;32m605 philo 40 is thinking
+[0;32m605 philo 40 has taken a left fork
+[0;32m605 philo 42 is thinking
+[0;32m605 philo 41 is sleeping
+[0;32m605 philo 40 has taken a right fork
+[0;32m605 philo 40 is eating
+[0;32m605 philo 42 has taken a left fork
+[0;32m605 philo 43 is sleeping
+[0;32m605 philo 42 has taken a right fork
+[0;32m606 philo 42 is eating
+[0;32m606 philo 44 is thinking
+[0;32m606 philo 44 has taken a left fork
+[0;32m606 philo 45 is sleeping
+[0;32m606 philo 44 has taken a right fork
+[0;32m606 philo 44 is eating
+[0;32m606 philo 46 is thinking
+[0;32m606 philo 46 has taken a left fork
+[0;32m606 philo 48 is thinking
+[0;32m606 philo 46 has taken a right fork
+[0;32m606 philo 46 is eating
+[0;32m606 philo 47 is sleeping
+[0;32m606 philo 48 has taken a left fork
+[0;32m606 philo 49 is sleeping
+[0;32m606 philo 50 is thinking
+[0;32m606 philo 50 has taken a left fork
+[0;32m606 philo 48 has taken a right fork
+[0;32m606 philo 48 is eating
+[0;32m607 philo 52 is thinking
+[0;32m607 philo 51 is sleeping
+[0;32m607 philo 50 has taken a right fork
+[0;32m607 philo 50 is eating
+[0;32m607 philo 52 has taken a left fork
+[0;32m607 philo 54 is thinking
+[0;32m607 philo 52 has taken a right fork
+[0;32m607 philo 52 is eating
+[0;32m607 philo 53 is sleeping
+[0;32m607 philo 54 has taken a left fork
+[0;32m607 philo 55 is sleeping
+[0;32m607 philo 54 has taken a right fork
+[0;32m607 philo 54 is eating
+[0;32m607 philo 56 is thinking
+[0;32m607 philo 56 has taken a left fork
+[0;32m607 philo 58 is thinking
+[0;32m607 philo 57 is sleeping
+[0;32m607 philo 56 has taken a right fork
+[0;32m607 philo 56 is eating
+[0;32m607 philo 58 has taken a left fork
+[0;32m608 philo 60 is thinking
+[0;32m608 philo 59 is sleeping
+[0;32m608 philo 58 has taken a right fork
+[0;32m608 philo 58 is eating
+[0;32m608 philo 60 has taken a left fork
+[0;32m608 philo 61 is sleeping
+[0;32m608 philo 62 is thinking
+[0;32m608 philo 62 has taken a left fork
+[0;32m608 philo 60 has taken a right fork
+[0;32m608 philo 60 is eating
+[0;32m608 philo 63 is sleeping
+[0;32m608 philo 62 has taken a right fork
+[0;32m608 philo 62 is eating
+[0;32m608 philo 64 is thinking
+[0;32m608 philo 64 has taken a left fork
+[0;32m608 philo 66 is thinking
+[0;32m608 philo 65 is sleeping
+[0;32m608 philo 64 has taken a right fork
+[0;32m608 philo 64 is eating
+[0;32m608 philo 66 has taken a left fork
+[0;32m609 philo 68 is thinking
+[0;32m609 philo 67 is sleeping
+[0;32m609 philo 66 has taken a right fork
+[0;32m609 philo 66 is eating
+[0;32m609 philo 68 has taken a left fork
+[0;32m609 philo 70 is thinking
+[0;32m609 philo 69 is sleeping
+[0;32m609 philo 68 has taken a right fork
+[0;32m609 philo 68 is eating
+[0;32m609 philo 70 has taken a left fork
+[0;32m609 philo 72 is thinking
+[0;32m609 philo 71 is sleeping
+[0;32m609 philo 70 has taken a right fork
+[0;32m609 philo 70 is eating
+[0;32m609 philo 72 has taken a left fork
+[0;32m610 philo 76 is thinking
+[0;32m610 philo 74 is thinking
+[0;32m610 philo 75 is sleeping
+[0;32m610 philo 73 is sleeping
+[0;32m610 philo 72 has taken a right fork
+[0;32m610 philo 72 is eating
+[0;32m610 philo 76 has taken a left fork
+[0;32m610 philo 74 has taken a left fork
+[0;32m610 philo 74 has taken a right fork
+[0;32m610 philo 74 is eating
+[0;32m610 philo 77 is sleeping
+[0;32m610 philo 76 has taken a right fork
+[0;32m610 philo 76 is eating
+[0;32m610 philo 78 is thinking
+[0;32m610 philo 78 has taken a left fork
+[0;32m610 philo 79 is sleeping
+[0;32m610 philo 78 has taken a right fork
+[0;32m610 philo 78 is eating
+[0;32m610 philo 80 is thinking
+[0;32m610 philo 80 has taken a left fork
+[0;32m611 philo 81 is sleeping
+[0;32m611 philo 82 is thinking
+[0;32m611 philo 82 has taken a left fork
+[0;32m611 philo 80 has taken a right fork
+[0;32m611 philo 80 is eating
+[0;32m611 philo 83 is sleeping
+[0;32m611 philo 82 has taken a right fork
+[0;32m611 philo 82 is eating
+[0;32m611 philo 84 is thinking
+[0;32m611 philo 84 has taken a left fork
+[0;32m611 philo 85 is sleeping
+[0;32m611 philo 84 has taken a right fork
+[0;32m611 philo 84 is eating
+[0;32m612 philo 86 is thinking
+[0;32m612 philo 86 has taken a left fork
+[0;32m612 philo 88 is thinking
+[0;32m612 philo 87 is sleeping
+[0;32m612 philo 86 has taken a right fork
+[0;32m612 philo 86 is eating
+[0;32m612 philo 88 has taken a left fork
+[0;32m612 philo 90 is thinking
+[0;32m612 philo 89 is sleeping
+[0;32m612 philo 88 has taken a right fork
+[0;32m612 philo 88 is eating
+[0;32m612 philo 90 has taken a left fork
+[0;32m612 philo 91 is sleeping
+[0;32m612 philo 90 has taken a right fork
+[0;32m612 philo 90 is eating
+[0;32m612 philo 92 is thinking
+[0;32m612 philo 92 has taken a left fork
+[0;32m613 philo 94 is thinking
+[0;32m613 philo 93 is sleeping
+[0;32m613 philo 92 has taken a right fork
+[0;32m613 philo 92 is eating
+[0;32m613 philo 94 has taken a left fork
+[0;32m613 philo 96 is thinking
+[0;32m613 philo 95 is sleeping
+[0;32m613 philo 94 has taken a right fork
+[0;32m613 philo 94 is eating
+[0;32m613 philo 96 has taken a left fork
+[0;32m613 philo 98 is thinking
+[0;32m613 philo 97 is sleeping
+[0;32m613 philo 98 has taken a left fork
+[0;32m613 philo 96 has taken a right fork
+[0;32m613 philo 96 is eating
+[0;32m614 philo 1 is sleeping
+[0;32m614 philo 99 is sleeping
+[0;32m614 philo 100 is thinking
+[0;32m614 philo 100 has taken a left fork
+[0;32m614 philo 100 has taken a right fork
+[0;32m614 philo 100 is eating
+[0;32m614 philo 2 has taken a left fork
+[0;32m614 philo 2 has taken a right fork
+[0;32m614 philo 2 is eating
+[0;32m614 philo 98 has taken a right fork
+[0;32m614 philo 98 is eating
+[0;32m800 philo 3 is thinking
+[0;32m801 philo 4 is sleeping
+[0;32m801 philo 5 is thinking
+[0;32m801 philo 5 has taken a left fork
+[0;32m801 philo 7 is thinking
+[0;32m801 philo 6 is sleeping
+[0;32m801 philo 7 has taken a left fork
+[0;32m801 philo 5 has taken a right fork
+[0;32m801 philo 5 is eating
+[0;32m801 philo 9 is thinking
+[0;32m801 philo 7 has taken a right fork
+[0;32m801 philo 7 is eating
+[0;32m801 philo 9 has taken a left fork
+[0;32m801 philo 8 is sleeping
+[0;32m801 philo 11 is thinking
+[0;32m801 philo 10 is sleeping
+[0;32m801 philo 11 has taken a left fork
+[0;32m801 philo 9 has taken a right fork
+[0;32m801 philo 9 is eating
+[0;32m802 philo 13 is thinking
+[0;32m802 philo 12 is sleeping
+[0;32m802 philo 11 has taken a right fork
+[0;32m802 philo 11 is eating
+[0;32m802 philo 13 has taken a left fork
+[0;32m802 philo 15 is thinking
+[0;32m802 philo 14 is sleeping
+[0;32m802 philo 13 has taken a right fork
+[0;32m802 philo 13 is eating
+[0;32m802 philo 15 has taken a left fork
+[0;32m802 philo 17 is thinking
+[0;32m802 philo 16 is sleeping
+[0;32m802 philo 17 has taken a left fork
+[0;32m802 philo 15 has taken a right fork
+[0;32m802 philo 15 is eating
+[0;32m802 philo 19 is thinking
+[0;32m802 philo 18 is sleeping
+[0;32m802 philo 17 has taken a right fork
+[0;32m802 philo 17 is eating
+[0;32m802 philo 19 has taken a left fork
+[0;32m803 philo 21 is thinking
+[0;32m803 philo 19 has taken a right fork
+[0;32m803 philo 19 is eating
+[0;32m803 philo 20 is sleeping
+[0;32m803 philo 21 has taken a left fork
+[0;32m803 philo 23 is thinking
+[0;32m803 philo 21 has taken a right fork
+[0;32m803 philo 21 is eating
+[0;32m803 philo 22 is sleeping
+[0;32m803 philo 23 has taken a left fork
+[0;32m803 philo 25 is thinking
+[0;32m803 philo 24 is sleeping
+[0;32m803 philo 25 has taken a left fork
+[0;32m803 philo 23 has taken a right fork
+[0;32m803 philo 23 is eating
+[0;32m803 philo 27 is thinking
+[0;32m803 philo 25 has taken a right fork
+[0;32m803 philo 25 is eating
+[0;32m803 philo 26 is sleeping
+[0;32m803 philo 27 has taken a left fork
+[0;32m804 philo 28 is sleeping
+[0;32m804 philo 27 has taken a right fork
+[0;32m804 philo 27 is eating
+[0;32m804 philo 29 is thinking
+[0;32m804 philo 29 has taken a left fork
+[0;32m804 philo 31 is thinking
+[0;32m804 philo 30 is sleeping
+[0;32m804 philo 29 has taken a right fork
+[0;32m804 philo 29 is eating
+[0;32m804 philo 31 has taken a left fork
+[0;32m804 philo 33 is thinking
+[0;32m804 philo 31 has taken a right fork
+[0;32m804 philo 31 is eating
+[0;32m804 philo 32 is sleeping
+[0;32m804 philo 33 has taken a left fork
+[0;32m805 philo 34 is sleeping
+[0;32m805 philo 33 has taken a right fork
+[0;32m805 philo 33 is eating
+[0;32m805 philo 35 is thinking
+[0;32m805 philo 35 has taken a left fork
+[0;32m805 philo 37 is thinking
+[0;32m805 philo 35 has taken a right fork
+[0;32m805 philo 35 is eating
+[0;32m805 philo 36 is sleeping
+[0;32m805 philo 37 has taken a left fork
+[0;32m805 philo 38 is sleeping
+[0;32m805 philo 39 is thinking
+[0;32m805 philo 39 has taken a left fork
+[0;32m805 philo 37 has taken a right fork
+[0;32m805 philo 37 is eating
+[0;32m805 philo 40 is sleeping
+[0;32m805 philo 39 has taken a right fork
+[0;32m805 philo 39 is eating
+[0;32m805 philo 41 is thinking
+[0;32m805 philo 41 has taken a left fork
+[0;32m806 philo 43 is thinking
+[0;32m806 philo 42 is sleeping
+[0;32m806 philo 41 has taken a right fork
+[0;32m806 philo 41 is eating
+[0;32m806 philo 43 has taken a left fork
+[0;32m806 philo 44 is sleeping
+[0;32m806 philo 43 has taken a right fork
+[0;32m806 philo 43 is eating
+[0;32m806 philo 45 is thinking
+[0;32m806 philo 45 has taken a left fork
+[0;32m806 philo 46 is sleeping
+[0;32m806 philo 45 has taken a right fork
+[0;32m806 philo 45 is eating
+[0;32m806 philo 47 is thinking
+[0;32m806 philo 47 has taken a left fork
+[0;32m806 philo 49 is thinking
+[0;32m806 philo 47 has taken a right fork
+[0;32m806 philo 47 is eating
+[0;32m806 philo 48 is sleeping
+[0;32m806 philo 49 has taken a left fork
+[0;32m807 philo 50 is sleeping
+[0;32m807 philo 49 has taken a right fork
+[0;32m807 philo 49 is eating
+[0;32m807 philo 51 is thinking
+[0;32m807 philo 51 has taken a left fork
+[0;32m807 philo 53 is thinking
+[0;32m807 philo 52 is sleeping
+[0;32m807 philo 53 has taken a left fork
+[0;32m807 philo 51 has taken a right fork
+[0;32m807 philo 51 is eating
+[0;32m807 philo 55 is thinking
+[0;32m807 philo 54 is sleeping
+[0;32m807 philo 53 has taken a right fork
+[0;32m807 philo 53 is eating
+[0;32m807 philo 55 has taken a left fork
+[0;32m807 philo 57 is thinking
+[0;32m807 philo 56 is sleeping
+[0;32m807 philo 57 has taken a left fork
+[0;32m807 philo 55 has taken a right fork
+[0;32m807 philo 55 is eating
+[0;32m808 philo 59 is thinking
+[0;32m808 philo 58 is sleeping
+[0;32m808 philo 57 has taken a right fork
+[0;32m808 philo 57 is eating
+[0;32m808 philo 59 has taken a left fork
+[0;32m808 philo 60 is sleeping
+[0;32m808 philo 59 has taken a right fork
+[0;32m808 philo 59 is eating
+[0;32m808 philo 61 is thinking
+[0;32m808 philo 61 has taken a left fork
+[0;32m808 philo 62 is sleeping
+[0;32m808 philo 61 has taken a right fork
+[0;32m808 philo 61 is eating
+[0;32m808 philo 63 is thinking
+[0;32m808 philo 63 has taken a left fork
+[0;32m808 philo 65 is thinking
+[0;32m808 philo 63 has taken a right fork
+[0;32m808 philo 63 is eating
+[0;32m808 philo 65 has taken a left fork
+[0;32m808 philo 64 is sleeping
+[0;32m809 philo 66 is sleeping
+[0;32m809 philo 65 has taken a right fork
+[0;32m809 philo 65 is eating
+[0;32m809 philo 67 is thinking
+[0;32m809 philo 67 has taken a left fork
+[0;32m809 philo 68 is sleeping
+[0;32m809 philo 67 has taken a right fork
+[0;32m809 philo 67 is eating
+[0;32m809 philo 69 is thinking
+[0;32m809 philo 69 has taken a left fork
+[0;32m809 philo 70 is sleeping
+[0;32m809 philo 69 has taken a right fork
+[0;32m809 philo 69 is eating
+[0;32m809 philo 71 is thinking
+[0;32m809 philo 71 has taken a left fork
+[0;32m810 philo 72 is sleeping
+[0;32m810 philo 71 has taken a right fork
+[0;32m810 philo 71 is eating
+[0;32m810 philo 74 is sleeping
+[0;32m810 philo 75 is thinking
+[0;32m810 philo 75 has taken a left fork
+[0;32m810 philo 73 is thinking
+[0;32m810 philo 73 has taken a left fork
+[0;32m810 philo 73 has taken a right fork
+[0;32m810 philo 73 is eating
+[0;32m810 philo 77 is thinking
+[0;32m810 philo 75 has taken a right fork
+[0;32m810 philo 75 is eating
+[0;32m810 philo 76 is sleeping
+[0;32m810 philo 77 has taken a left fork
+[0;32m810 philo 79 is thinking
+[0;32m810 philo 78 is sleeping
+[0;32m810 philo 77 has taken a right fork
+[0;32m810 philo 77 is eating
+[0;32m810 philo 79 has taken a left fork
+[0;32m811 philo 81 is thinking
+[0;32m811 philo 79 has taken a right fork
+[0;32m811 philo 79 is eating
+[0;32m811 philo 80 is sleeping
+[0;32m811 philo 81 has taken a left fork
+[0;32m811 philo 81 has taken a right fork
+[0;32m811 philo 81 is eating
+[0;32m811 philo 82 is sleeping
+[0;32m811 philo 83 is thinking
+[0;32m811 philo 83 has taken a left fork
+[0;32m811 philo 84 is sleeping
+[0;32m811 philo 83 has taken a right fork
+[0;32m811 philo 83 is eating
+[0;32m812 philo 85 is thinking
+[0;32m812 philo 85 has taken a left fork
+[0;32m812 philo 87 is thinking
+[0;32m812 philo 86 is sleeping
+[0;32m812 philo 87 has taken a left fork
+[0;32m812 philo 85 has taken a right fork
+[0;32m812 philo 85 is eating
+[0;32m812 philo 88 is sleeping
+[0;32m812 philo 87 has taken a right fork
+[0;32m812 philo 87 is eating
+[0;32m812 philo 89 is thinking
+[0;32m812 philo 89 has taken a left fork
+[0;32m812 philo 91 is thinking
+[0;32m812 philo 90 is sleeping
+[0;32m813 philo 91 has taken a left fork
+[0;32m813 philo 89 has taken a right fork
+[0;32m813 philo 89 is eating
+[0;32m813 philo 93 is thinking
+[0;32m813 philo 92 is sleeping
+[0;32m813 philo 91 has taken a right fork
+[0;32m813 philo 91 is eating
+[0;32m813 philo 93 has taken a left fork
+[0;32m813 philo 95 is thinking
+[0;32m813 philo 94 is sleeping
+[0;32m813 philo 93 has taken a right fork
+[0;32m813 philo 93 is eating
+[0;32m813 philo 95 has taken a left fork
+[0;32m813 philo 97 is thinking
+[0;32m813 philo 95 has taken a right fork
+[0;32m813 philo 95 is eating
+[0;32m813 philo 96 is sleeping
+[0;32m813 philo 97 has taken a left fork
+[0;32m814 philo 99 is thinking
+[0;32m814 philo 100 is sleeping
+[0;32m814 philo 98 is sleeping
+[0;32m814 philo 99 has taken a left fork
+[0;32m814 philo 99 has taken a right fork
+[0;32m814 philo 99 is eating
+[0;32m814 philo 97 has taken a right fork
+[0;32m814 philo 97 is eating
+[0;32m814 philo 1 is thinking
+[0;32m814 philo 2 is sleeping
+[0;32m814 philo 1 has taken a left fork
+[0;32m814 philo 1 has taken a right fork
+[0;32m814 philo 1 is eating
+[0;32m814 philo 3 has taken a left fork
+[0;32m814 philo 3 has taken a right fork
+[0;32m814 philo 3 is eating
+[0;32m1001 philo 4 is thinking
+[0;32m1001 philo 5 is sleeping
+[0;32m1001 philo 6 is thinking
+[0;32m1001 philo 6 has taken a left fork
+[0;32m1001 philo 7 is sleeping
+[0;32m1001 philo 6 has taken a right fork
+[0;32m1001 philo 6 is eating
+[0;32m1001 philo 8 is thinking
+[0;32m1001 philo 8 has taken a left fork
+[0;32m1001 philo 10 is thinking
+[0;32m1001 philo 8 has taken a right fork
+[0;32m1001 philo 8 is eating
+[0;32m1001 philo 10 has taken a left fork
+[0;32m1001 philo 9 is sleeping
+[0;32m1002 philo 12 is thinking
+[0;32m1002 philo 11 is sleeping
+[0;32m1002 philo 10 has taken a right fork
+[0;32m1002 philo 10 is eating
+[0;32m1002 philo 12 has taken a left fork
+[0;32m1002 philo 14 is thinking
+[0;32m1002 philo 13 is sleeping
+[0;32m1002 philo 12 has taken a right fork
+[0;32m1002 philo 12 is eating
+[0;32m1002 philo 14 has taken a left fork
+[0;32m1002 philo 16 is thinking
+[0;32m1002 philo 15 is sleeping
+[0;32m1002 philo 16 has taken a left fork
+[0;32m1002 philo 14 has taken a right fork
+[0;32m1002 philo 14 is eating
+[0;32m1002 philo 18 is thinking
+[0;32m1002 philo 17 is sleeping
+[0;32m1002 philo 16 has taken a right fork
+[0;32m1003 philo 16 is eating
+[0;32m1003 philo 18 has taken a left fork
+[0;32m1003 philo 19 is sleeping
+[0;32m1003 philo 20 is thinking
+[0;32m1003 philo 20 has taken a left fork
+[0;32m1003 philo 18 has taken a right fork
+[0;32m1003 philo 18 is eating
+[0;32m1003 philo 22 is thinking
+[0;32m1003 philo 21 is sleeping
+[0;32m1003 philo 20 has taken a right fork
+[0;32m1003 philo 20 is eating
+[0;32m1003 philo 22 has taken a left fork
+[0;32m1003 philo 24 is thinking
+[0;32m1003 philo 23 is sleeping
+[0;32m1003 philo 22 has taken a right fork
+[0;32m1003 philo 22 is eating
+[0;32m1003 philo 24 has taken a left fork
+[0;32m1003 philo 25 is sleeping
+[0;32m1003 philo 24 has taken a right fork
+[0;32m1003 philo 24 is eating
+[0;32m1003 philo 26 is thinking
+[0;32m1004 philo 26 has taken a left fork
+[0;32m1004 philo 28 is thinking
+[0;32m1004 philo 27 is sleeping
+[0;32m1004 philo 26 has taken a right fork
+[0;32m1004 philo 26 is eating
+[0;32m1004 philo 28 has taken a left fork
+[0;32m1004 philo 30 is thinking
+[0;32m1004 philo 29 is sleeping
+[0;32m1004 philo 28 has taken a right fork
+[0;32m1004 philo 28 is eating
+[0;32m1004 philo 30 has taken a left fork
+[0;32m1004 philo 31 is sleeping
+[0;32m1004 philo 30 has taken a right fork
+[0;32m1004 philo 30 is eating
+[0;32m1004 philo 32 is thinking
+[0;32m1004 philo 32 has taken a left fork
+[0;32m1005 philo 34 is thinking
+[0;32m1005 philo 33 is sleeping
+[0;32m1005 philo 32 has taken a right fork
+[0;32m1005 philo 32 is eating
+[0;32m1005 philo 34 has taken a left fork
+[0;32m1005 philo 36 is thinking
+[0;32m1005 philo 35 is sleeping
+[0;32m1005 philo 34 has taken a right fork
+[0;32m1005 philo 34 is eating
+[0;32m1005 philo 36 has taken a left fork
+[0;32m1005 philo 38 is thinking
+[0;32m1005 philo 37 is sleeping
+[0;32m1005 philo 38 has taken a left fork
+[0;32m1005 philo 36 has taken a right fork
+[0;32m1005 philo 36 is eating
+[0;32m1005 philo 39 is sleeping
+[0;32m1005 philo 38 has taken a right fork
+[0;32m1005 philo 38 is eating
+[0;32m1005 philo 40 is thinking
+[0;32m1005 philo 40 has taken a left fork
+[0;32m1006 philo 42 is thinking
+[0;32m1006 philo 41 is sleeping
+[0;32m1006 philo 42 has taken a left fork
+[0;32m1006 philo 40 has taken a right fork
+[0;32m1006 philo 40 is eating
+[0;32m1006 philo 44 is thinking
+[0;32m1006 philo 43 is sleeping
+[0;32m1006 philo 42 has taken a right fork
+[0;32m1006 philo 42 is eating
+[0;32m1006 philo 44 has taken a left fork
+[0;32m1006 philo 45 is sleeping
+[0;32m1006 philo 44 has taken a right fork
+[0;32m1006 philo 44 is eating
+[0;32m1006 philo 46 is thinking
+[0;32m1006 philo 46 has taken a left fork
+[0;32m1006 philo 47 is sleeping
+[0;32m1006 philo 46 has taken a right fork
+[0;32m1006 philo 46 is eating
+[0;32m1006 philo 48 is thinking
+[0;32m1006 philo 48 has taken a left fork
+[0;32m1007 philo 49 is sleeping
+[0;32m1007 philo 48 has taken a right fork
+[0;32m1007 philo 48 is eating
+[0;32m1007 philo 50 is thinking
+[0;32m1007 philo 50 has taken a left fork
+[0;32m1007 philo 52 is thinking
+[0;32m1007 philo 51 is sleeping
+[0;32m1007 philo 50 has taken a right fork
+[0;32m1007 philo 50 is eating
+[0;32m1007 philo 52 has taken a left fork
+[0;32m1007 philo 54 is thinking
+[0;32m1007 philo 53 is sleeping
+[0;32m1007 philo 52 has taken a right fork
+[0;32m1007 philo 52 is eating
+[0;32m1007 philo 54 has taken a left fork
+[0;32m1007 philo 56 is thinking
+[0;32m1008 philo 55 is sleeping
+[0;32m1008 philo 54 has taken a right fork
+[0;32m1008 philo 54 is eating
+[0;32m1008 philo 56 has taken a left fork
+[0;32m1008 philo 57 is sleeping
+[0;32m1008 philo 56 has taken a right fork
+[0;32m1008 philo 56 is eating
+[0;32m1008 philo 58 is thinking
+[0;32m1008 philo 58 has taken a left fork
+[0;32m1008 philo 60 is thinking
+[0;32m1008 philo 59 is sleeping
+[0;32m1008 philo 58 has taken a right fork
+[0;32m1008 philo 58 is eating
+[0;32m1008 philo 60 has taken a left fork
+[0;32m1008 philo 62 is thinking
+[0;32m1008 philo 61 is sleeping
+[0;32m1008 philo 60 has taken a right fork
+[0;32m1008 philo 62 has taken a left fork
+[0;32m1008 philo 60 is eating
+[0;32m1008 philo 63 is sleeping
+[0;32m1009 philo 62 has taken a right fork
+[0;32m1009 philo 62 is eating
+[0;32m1009 philo 64 is thinking
+[0;32m1009 philo 64 has taken a left fork
+[0;32m1009 philo 65 is sleeping
+[0;32m1009 philo 64 has taken a right fork
+[0;32m1009 philo 64 is eating
+[0;32m1009 philo 66 is thinking
+[0;32m1009 philo 66 has taken a left fork
+[0;32m1009 philo 68 is thinking
+[0;32m1009 philo 67 is sleeping
+[0;32m1009 philo 66 has taken a right fork
+[0;32m1009 philo 66 is eating
+[0;32m1009 philo 68 has taken a left fork
+[0;32m1009 philo 70 is thinking
+[0;32m1009 philo 69 is sleeping
+[0;32m1009 philo 68 has taken a right fork
+[0;32m1009 philo 68 is eating
+[0;32m1009 philo 70 has taken a left fork
+[0;32m1010 philo 72 is thinking
+[0;32m1010 philo 74 is thinking
+[0;32m1010 philo 71 is sleeping
+[0;32m1010 philo 70 has taken a right fork
+[0;32m1010 philo 70 is eating
+[0;32m1010 philo 72 has taken a left fork
+[0;32m1010 philo 73 is sleeping
+[0;32m1010 philo 72 has taken a right fork
+[0;32m1010 philo 72 is eating
+[0;32m1010 philo 74 has taken a left fork
+[0;32m1010 philo 76 is thinking
+[0;32m1010 philo 75 is sleeping
+[0;32m1010 philo 74 has taken a right fork
+[0;32m1010 philo 74 is eating
+[0;32m1010 philo 76 has taken a left fork
+[0;32m1010 philo 78 is thinking
+[0;32m1010 philo 77 is sleeping
+[0;32m1010 philo 76 has taken a right fork
+[0;32m1010 philo 76 is eating
+[0;32m1010 philo 78 has taken a left fork
+[0;32m1011 philo 79 is sleeping
+[0;32m1011 philo 78 has taken a right fork
+[0;32m1011 philo 78 is eating
+[0;32m1011 philo 80 is thinking
+[0;32m1011 philo 80 has taken a left fork
+[0;32m1011 philo 81 is sleeping
+[0;32m1011 philo 80 has taken a right fork
+[0;32m1011 philo 80 is eating
+[0;32m1011 philo 82 is thinking
+[0;32m1011 philo 82 has taken a left fork
+[0;32m1012 philo 83 is sleeping
+[0;32m1012 philo 82 has taken a right fork
+[0;32m1012 philo 82 is eating
+[0;32m1012 philo 84 is thinking
+[0;32m1012 philo 84 has taken a left fork
+[0;32m1012 philo 85 is sleeping
+[0;32m1012 philo 84 has taken a right fork
+[0;32m1012 philo 84 is eating
+[0;32m1012 philo 86 is thinking
+[0;32m1012 philo 86 has taken a left fork
+[0;32m1012 philo 88 is thinking
+[0;32m1012 philo 87 is sleeping
+[0;32m1012 philo 86 has taken a right fork
+[0;32m1012 philo 86 is eating
+[0;32m1012 philo 88 has taken a left fork
+[0;32m1013 philo 90 is thinking
+[0;32m1013 philo 89 is sleeping
+[0;32m1013 philo 88 has taken a right fork
+[0;32m1013 philo 88 is eating
+[0;32m1013 philo 90 has taken a left fork
+[0;32m1013 philo 91 is sleeping
+[0;32m1013 philo 90 has taken a right fork
+[0;32m1013 philo 90 is eating
+[0;32m1013 philo 92 is thinking
+[0;32m1013 philo 92 has taken a left fork
+[0;32m1013 philo 94 is thinking
+[0;32m1013 philo 93 is sleeping
+[0;32m1013 philo 94 has taken a left fork
+[0;32m1013 philo 92 has taken a right fork
+[0;32m1013 philo 92 is eating
+[0;32m1013 philo 96 is thinking
+[0;32m1013 philo 95 is sleeping
+[0;32m1013 philo 94 has taken a right fork
+[0;32m1013 philo 94 is eating
+[0;32m1013 philo 96 has taken a left fork
+[0;32m1014 philo 98 is thinking
+[0;32m1014 philo 3 is sleeping
+[0;32m1014 philo 1 is sleeping
+[0;32m1014 philo 100 is thinking
+[0;32m1014 philo 4 has taken a left fork
+[0;32m1014 philo 4 has taken a right fork
+[0;32m1014 philo 4 is eating
+[0;32m1014 philo 97 is sleeping
+[0;32m1014 philo 96 has taken a right fork
+[0;32m1014 philo 96 is eating
+[0;32m1014 philo 99 is sleeping
+[0;32m1014 philo 100 has taken a left fork
+[0;32m1014 philo 100 has taken a right fork
+[0;32m1014 philo 100 is eating
+[0;32m1014 philo 98 has taken a left fork
+[0;32m1014 philo 98 has taken a right fork
+[0;32m1014 philo 98 is eating
+[0;32m1014 philo 2 is thinking
+[0;32m1014 philo 2 has taken a left fork
+[0;32m1014 philo 2 has taken a right fork
+[0;32m1014 philo 2 is eating
+[0;32m1201 philo 5 is thinking
+[0;32m1201 philo 6 is sleeping
+[0;32m1201 philo 7 is thinking
+[0;32m1201 philo 7 has taken a left fork
+[0;32m1202 philo 7 has taken a right fork
+[0;32m1202 philo 7 is eating
+[0;32m1202 philo 9 is thinking
+[0;32m1202 philo 9 has taken a left fork
+[0;32m1202 philo 8 is sleeping
+[0;32m1202 philo 11 is thinking
+[0;32m1202 philo 10 is sleeping
+[0;32m1202 philo 9 has taken a right fork
+[0;32m1202 philo 9 is eating
+[0;32m1202 philo 11 has taken a left fork
+[0;32m1202 philo 13 is thinking
+[0;32m1202 philo 12 is sleeping
+[0;32m1202 philo 11 has taken a right fork
+[0;32m1202 philo 11 is eating
+[0;32m1202 philo 13 has taken a left fork
+[0;32m1202 philo 15 is thinking
+[0;32m1202 philo 14 is sleeping
+[0;32m1202 philo 13 has taken a right fork
+[0;32m1202 philo 13 is eating
+[0;32m1202 philo 15 has taken a left fork
+[0;32m1203 philo 17 is thinking
+[0;32m1203 philo 16 is sleeping
+[0;32m1203 philo 15 has taken a right fork
+[0;32m1203 philo 15 is eating
+[0;32m1203 philo 17 has taken a left fork
+[0;32m1203 philo 19 is thinking
+[0;32m1203 philo 18 is sleeping
+[0;32m1203 philo 17 has taken a right fork
+[0;32m1203 philo 17 is eating
+[0;32m1203 philo 19 has taken a left fork
+[0;32m1203 philo 20 is sleeping
+[0;32m1203 philo 19 has taken a right fork
+[0;32m1203 philo 19 is eating
+[0;32m1203 philo 21 is thinking
+[0;32m1203 philo 21 has taken a left fork
+[0;32m1203 philo 22 is sleeping
+[0;32m1203 philo 21 has taken a right fork
+[0;32m1203 philo 21 is eating
+[0;32m1203 philo 23 is thinking
+[0;32m1203 philo 23 has taken a left fork
+[0;32m1203 philo 24 is sleeping
+[0;32m1203 philo 25 is thinking
+[0;32m1203 philo 25 has taken a left fork
+[0;32m1203 philo 23 has taken a right fork
+[0;32m1204 philo 23 is eating
+[0;32m1204 philo 27 is thinking
+[0;32m1204 philo 26 is sleeping
+[0;32m1204 philo 25 has taken a right fork
+[0;32m1204 philo 25 is eating
+[0;32m1204 philo 27 has taken a left fork
+[0;32m1204 philo 29 is thinking
+[0;32m1204 philo 28 is sleeping
+[0;32m1204 philo 27 has taken a right fork
+[0;32m1204 philo 27 is eating
+[0;32m1204 philo 29 has taken a left fork
+[0;32m1204 philo 31 is thinking
+[0;32m1204 philo 30 is sleeping
+[0;32m1204 philo 29 has taken a right fork
+[0;32m1204 philo 29 is eating
+[0;32m1204 philo 31 has taken a left fork
+[0;32m1205 philo 32 is sleeping
+[0;32m1205 philo 31 has taken a right fork
+[0;32m1205 philo 31 is eating
+[0;32m1205 philo 33 is thinking
+[0;32m1205 philo 33 has taken a left fork
+[0;32m1205 philo 35 is thinking
+[0;32m1205 philo 34 is sleeping
+[0;32m1205 philo 33 has taken a right fork
+[0;32m1205 philo 33 is eating
+[0;32m1205 philo 35 has taken a left fork
+[0;32m1205 philo 36 is sleeping
+[0;32m1205 philo 35 has taken a right fork
+[0;32m1205 philo 35 is eating
+[0;32m1205 philo 37 is thinking
+[0;32m1205 philo 37 has taken a left fork
+[0;32m1205 philo 39 is thinking
+[0;32m1205 philo 37 has taken a right fork
+[0;32m1205 philo 37 is eating
+[0;32m1205 philo 38 is sleeping
+[0;32m1205 philo 39 has taken a left fork
+[0;32m1206 philo 40 is sleeping
+[0;32m1206 philo 39 has taken a right fork
+[0;32m1206 philo 39 is eating
+[0;32m1206 philo 41 is thinking
+[0;32m1206 philo 41 has taken a left fork
+[0;32m1206 philo 43 is thinking
+[0;32m1206 philo 42 is sleeping
+[0;32m1206 philo 43 has taken a left fork
+[0;32m1206 philo 41 has taken a right fork
+[0;32m1206 philo 41 is eating
+[0;32m1206 philo 45 is thinking
+[0;32m1206 philo 43 has taken a right fork
+[0;32m1206 philo 43 is eating
+[0;32m1206 philo 44 is sleeping
+[0;32m1206 philo 45 has taken a left fork
+[0;32m1206 philo 46 is sleeping
+[0;32m1206 philo 45 has taken a right fork
+[0;32m1206 philo 45 is eating
+[0;32m1206 philo 47 is thinking
+[0;32m1206 philo 47 has taken a left fork
+[0;32m1207 philo 49 is thinking
+[0;32m1207 philo 48 is sleeping
+[0;32m1207 philo 47 has taken a right fork
+[0;32m1207 philo 47 is eating
+[0;32m1207 philo 49 has taken a left fork
+[0;32m1207 philo 50 is sleeping
+[0;32m1207 philo 49 has taken a right fork
+[0;32m1207 philo 49 is eating
+[0;32m1207 philo 51 is thinking
+[0;32m1207 philo 51 has taken a left fork
+[0;32m1207 philo 53 is thinking
+[0;32m1207 philo 52 is sleeping
+[0;32m1207 philo 51 has taken a right fork
+[0;32m1207 philo 51 is eating
+[0;32m1207 philo 53 has taken a left fork
+[0;32m1208 philo 55 is thinking
+[0;32m1208 philo 54 is sleeping
+[0;32m1208 philo 53 has taken a right fork
+[0;32m1208 philo 53 is eating
+[0;32m1208 philo 55 has taken a left fork
+[0;32m1208 philo 56 is sleeping
+[0;32m1208 philo 55 has taken a right fork
+[0;32m1208 philo 55 is eating
+[0;32m1208 philo 57 is thinking
+[0;32m1208 philo 57 has taken a left fork
+[0;32m1208 philo 58 is sleeping
+[0;32m1208 philo 57 has taken a right fork
+[0;32m1208 philo 57 is eating
+[0;32m1208 philo 59 is thinking
+[0;32m1208 philo 59 has taken a left fork
+[0;32m1208 philo 61 is thinking
+[0;32m1208 philo 60 is sleeping
+[0;32m1208 philo 59 has taken a right fork
+[0;32m1208 philo 59 is eating
+[0;32m1208 philo 61 has taken a left fork
+[0;32m1209 philo 63 is thinking
+[0;32m1209 philo 62 is sleeping
+[0;32m1209 philo 61 has taken a right fork
+[0;32m1209 philo 61 is eating
+[0;32m1209 philo 63 has taken a left fork
+[0;32m1209 philo 64 is sleeping
+[0;32m1209 philo 65 is thinking
+[0;32m1209 philo 65 has taken a left fork
+[0;32m1209 philo 63 has taken a right fork
+[0;32m1209 philo 63 is eating
+[0;32m1209 philo 66 is sleeping
+[0;32m1209 philo 67 is thinking
+[0;32m1209 philo 67 has taken a left fork
+[0;32m1209 philo 65 has taken a right fork
+[0;32m1209 philo 65 is eating
+[0;32m1209 philo 68 is sleeping
+[0;32m1209 philo 69 is thinking
+[0;32m1209 philo 69 has taken a left fork
+[0;32m1209 philo 67 has taken a right fork
+[0;32m1209 philo 67 is eating
+[0;32m1210 philo 71 is thinking
+[0;32m1210 philo 70 is sleeping
+[0;32m1210 philo 71 has taken a left fork
+[0;32m1210 philo 69 has taken a right fork
+[0;32m1210 philo 69 is eating
+[0;32m1210 philo 72 is sleeping
+[0;32m1210 philo 71 has taken a right fork
+[0;32m1210 philo 71 is eating
+[0;32m1210 philo 73 is thinking
+[0;32m1210 philo 73 has taken a left fork
+[0;32m1210 philo 75 is thinking
+[0;32m1210 philo 73 has taken a right fork
+[0;32m1210 philo 75 has taken a left fork
+[0;32m1210 philo 73 is eating
+[0;32m1210 philo 74 is sleeping
+[0;32m1210 philo 76 is sleeping
+[0;32m1210 philo 75 has taken a right fork
+[0;32m1211 philo 75 is eating
+[0;32m1211 philo 77 is thinking
+[0;32m1211 philo 77 has taken a left fork
+[0;32m1211 philo 78 is sleeping
+[0;32m1211 philo 79 is thinking
+[0;32m1211 philo 79 has taken a left fork
+[0;32m1211 philo 77 has taken a right fork
+[0;32m1211 philo 77 is eating
+[0;32m1211 philo 80 is sleeping
+[0;32m1211 philo 79 has taken a right fork
+[0;32m1211 philo 79 is eating
+[0;32m1211 philo 81 is thinking
+[0;32m1211 philo 81 has taken a left fork
+[0;32m1212 philo 82 is sleeping
+[0;32m1212 philo 81 has taken a right fork
+[0;32m1212 philo 81 is eating
+[0;32m1212 philo 83 is thinking
+[0;32m1212 philo 83 has taken a left fork
+[0;32m1212 philo 84 is sleeping
+[0;32m1212 philo 85 is thinking
+[0;32m1212 philo 85 has taken a left fork
+[0;32m1212 philo 83 has taken a right fork
+[0;32m1212 philo 83 is eating
+[0;32m1212 philo 86 is sleeping
+[0;32m1212 philo 85 has taken a right fork
+[0;32m1212 philo 85 is eating
+[0;32m1212 philo 87 is thinking
+[0;32m1212 philo 87 has taken a left fork
+[0;32m1213 philo 88 is sleeping
+[0;32m1213 philo 87 has taken a right fork
+[0;32m1213 philo 87 is eating
+[0;32m1213 philo 89 is thinking
+[0;32m1213 philo 89 has taken a left fork
+[0;32m1213 philo 91 is thinking
+[0;32m1213 philo 90 is sleeping
+[0;32m1213 philo 91 has taken a left fork
+[0;32m1213 philo 89 has taken a right fork
+[0;32m1213 philo 89 is eating
+[0;32m1213 philo 93 is thinking
+[0;32m1213 philo 91 has taken a right fork
+[0;32m1213 philo 91 is eating
+[0;32m1213 philo 92 is sleeping
+[0;32m1213 philo 93 has taken a left fork
+[0;32m1214 philo 95 is thinking
+[0;32m1214 philo 94 is sleeping
+[0;32m1214 philo 95 has taken a left fork
+[0;32m1214 philo 93 has taken a right fork
+[0;32m1214 philo 93 is eating
+[0;32m1214 philo 97 is thinking
+[0;32m1214 philo 1 is thinking
+[0;32m1214 philo 4 is sleeping
+[0;32m1214 philo 5 has taken a left fork
+[0;32m1214 philo 5 has taken a right fork
+[0;32m1214 philo 5 is eating
+[0;32m1214 philo 100 is sleeping
+[0;32m1214 philo 3 is thinking
+[0;32m1214 philo 1 has taken a left fork
+[0;32m1214 philo 96 is sleeping
+[0;32m1214 philo 95 has taken a right fork
+[0;32m1214 philo 97 has taken a left fork
+[0;32m1214 philo 97 has taken a right fork
+[0;32m1214 philo 97 is eating
+[0;32m1214 philo 2 is sleeping
+[0;32m1214 philo 95 is eating
+[0;32m1214 philo 1 has taken a right fork
+[0;32m1214 philo 1 is eating
+[0;32m1214 philo 3 has taken a left fork
+[0;32m1214 philo 3 has taken a right fork
+[0;32m1214 philo 3 is eating
+[0;32m1214 philo 99 is thinking
+[0;32m1214 philo 99 has taken a left fork
+[0;32m1214 philo 99 has taken a right fork
+[0;32m1214 philo 99 is eating
+[0;32m1214 philo 98 is sleeping
+[0;32m1401 philo 6 is thinking
+[0;32m1402 philo 7 is sleeping
+[0;32m1402 philo 8 is thinking
+[0;32m1402 philo 8 has taken a left fork
+[0;32m1402 philo 10 is thinking
+[0;32m1402 philo 9 is sleeping
+[0;32m1402 philo 8 has taken a right fork
+[0;32m1402 philo 8 is eating
+[0;32m1402 philo 10 has taken a left fork
+[0;32m1402 philo 11 is sleeping
+[0;32m1402 philo 10 has taken a right fork
+[0;32m1402 philo 10 is eating
+[0;32m1402 philo 12 is thinking
+[0;32m1402 philo 12 has taken a left fork
+[0;32m1402 philo 14 is thinking
+[0;32m1402 philo 13 is sleeping
+[0;32m1402 philo 12 has taken a right fork
+[0;32m1402 philo 12 is eating
+[0;32m1402 philo 14 has taken a left fork
+[0;32m1403 philo 16 is thinking
+[0;32m1403 philo 15 is sleeping
+[0;32m1403 philo 14 has taken a right fork
+[0;32m1403 philo 14 is eating
+[0;32m1403 philo 16 has taken a left fork
+[0;32m1403 philo 18 is thinking
+[0;32m1403 philo 17 is sleeping
+[0;32m1403 philo 16 has taken a right fork
+[0;32m1403 philo 16 is eating
+[0;32m1403 philo 18 has taken a left fork
+[0;32m1403 philo 20 is thinking
+[0;32m1403 philo 19 is sleeping
+[0;32m1403 philo 18 has taken a right fork
+[0;32m1403 philo 18 is eating
+[0;32m1403 philo 20 has taken a left fork
+[0;32m1403 philo 22 is thinking
+[0;32m1403 philo 21 is sleeping
+[0;32m1403 philo 20 has taken a right fork
+[0;32m1403 philo 20 is eating
+[0;32m1403 philo 22 has taken a left fork
+[0;32m1403 philo 24 is thinking
+[0;32m1404 philo 23 is sleeping
+[0;32m1404 philo 22 has taken a right fork
+[0;32m1404 philo 22 is eating
+[0;32m1404 philo 24 has taken a left fork
+[0;32m1404 philo 26 is thinking
+[0;32m1404 philo 25 is sleeping
+[0;32m1404 philo 24 has taken a right fork
+[0;32m1404 philo 24 is eating
+[0;32m1404 philo 26 has taken a left fork
+[0;32m1404 philo 27 is sleeping
+[0;32m1404 philo 28 is thinking
+[0;32m1404 philo 28 has taken a left fork
+[0;32m1404 philo 26 has taken a right fork
+[0;32m1404 philo 26 is eating
+[0;32m1404 philo 30 is thinking
+[0;32m1404 philo 29 is sleeping
+[0;32m1404 philo 28 has taken a right fork
+[0;32m1404 philo 28 is eating
+[0;32m1404 philo 30 has taken a left fork
+[0;32m1405 philo 32 is thinking
+[0;32m1405 philo 31 is sleeping
+[0;32m1405 philo 30 has taken a right fork
+[0;32m1405 philo 30 is eating
+[0;32m1405 philo 32 has taken a left fork
+[0;32m1405 philo 34 is thinking
+[0;32m1405 philo 33 is sleeping
+[0;32m1405 philo 32 has taken a right fork
+[0;32m1405 philo 32 is eating
+[0;32m1405 philo 34 has taken a left fork
+[0;32m1405 philo 35 is sleeping
+[0;32m1405 philo 36 is thinking
+[0;32m1405 philo 36 has taken a left fork
+[0;32m1405 philo 34 has taken a right fork
+[0;32m1405 philo 34 is eating
+[0;32m1406 philo 37 is sleeping
+[0;32m1406 philo 36 has taken a right fork
+[0;32m1406 philo 36 is eating
+[0;32m1406 philo 38 is thinking
+[0;32m1406 philo 38 has taken a left fork
+[0;32m1406 philo 40 is thinking
+[0;32m1406 philo 39 is sleeping
+[0;32m1406 philo 38 has taken a right fork
+[0;32m1406 philo 38 is eating
+[0;32m1406 philo 40 has taken a left fork
+[0;32m1406 philo 42 is thinking
+[0;32m1406 philo 41 is sleeping
+[0;32m1406 philo 40 has taken a right fork
+[0;32m1406 philo 40 is eating
+[0;32m1406 philo 42 has taken a left fork
+[0;32m1406 philo 43 is sleeping
+[0;32m1406 philo 44 is thinking
+[0;32m1406 philo 44 has taken a left fork
+[0;32m1406 philo 42 has taken a right fork
+[0;32m1406 philo 42 is eating
+[0;32m1406 philo 46 is thinking
+[0;32m1406 philo 45 is sleeping
+[0;32m1406 philo 44 has taken a right fork
+[0;32m1406 philo 44 is eating
+[0;32m1406 philo 46 has taken a left fork
+[0;32m1407 philo 48 is thinking
+[0;32m1407 philo 46 has taken a right fork
+[0;32m1407 philo 46 is eating
+[0;32m1407 philo 47 is sleeping
+[0;32m1407 philo 48 has taken a left fork
+[0;32m1407 philo 50 is thinking
+[0;32m1407 philo 49 is sleeping
+[0;32m1407 philo 48 has taken a right fork
+[0;32m1407 philo 48 is eating
+[0;32m1407 philo 50 has taken a left fork
+[0;32m1407 philo 52 is thinking
+[0;32m1407 philo 51 is sleeping
+[0;32m1407 philo 50 has taken a right fork
+[0;32m1407 philo 50 is eating
+[0;32m1407 philo 52 has taken a left fork
+[0;32m1408 philo 54 is thinking
+[0;32m1408 philo 53 is sleeping
+[0;32m1408 philo 54 has taken a left fork
+[0;32m1408 philo 52 has taken a right fork
+[0;32m1408 philo 52 is eating
+[0;32m1408 philo 55 is sleeping
+[0;32m1408 philo 56 is thinking
+[0;32m1408 philo 56 has taken a left fork
+[0;32m1408 philo 54 has taken a right fork
+[0;32m1408 philo 54 is eating
+[0;32m1408 philo 57 is sleeping
+[0;32m1408 philo 58 is thinking
+[0;32m1408 philo 56 has taken a right fork
+[0;32m1408 philo 56 is eating
+[0;32m1408 philo 58 has taken a left fork
+[0;32m1408 philo 60 is thinking
+[0;32m1408 philo 59 is sleeping
+[0;32m1408 philo 60 has taken a left fork
+[0;32m1408 philo 58 has taken a right fork
+[0;32m1408 philo 58 is eating
+[0;32m1409 philo 62 is thinking
+[0;32m1409 philo 61 is sleeping
+[0;32m1409 philo 62 has taken a left fork
+[0;32m1409 philo 60 has taken a right fork
+[0;32m1409 philo 60 is eating
+[0;32m1409 philo 63 is sleeping
+[0;32m1409 philo 62 has taken a right fork
+[0;32m1409 philo 62 is eating
+[0;32m1409 philo 64 is thinking
+[0;32m1409 philo 64 has taken a left fork
+[0;32m1409 philo 66 is thinking
+[0;32m1409 philo 65 is sleeping
+[0;32m1409 philo 64 has taken a right fork
+[0;32m1409 philo 64 is eating
+[0;32m1409 philo 66 has taken a left fork
+[0;32m1409 philo 67 is sleeping
+[0;32m1409 philo 66 has taken a right fork
+[0;32m1409 philo 66 is eating
+[0;32m1409 philo 68 is thinking
+[0;32m1409 philo 68 has taken a left fork
+[0;32m1410 philo 70 is thinking
+[0;32m1410 philo 69 is sleeping
+[0;32m1410 philo 68 has taken a right fork
+[0;32m1410 philo 68 is eating
+[0;32m1410 philo 70 has taken a left fork
+[0;32m1410 philo 72 is thinking
+[0;32m1410 philo 71 is sleeping
+[0;32m1410 philo 70 has taken a right fork
+[0;32m1410 philo 70 is eating
+[0;32m1410 philo 72 has taken a left fork
+[0;32m1410 philo 74 is thinking
+[0;32m1410 philo 73 is sleeping
+[0;32m1410 philo 72 has taken a right fork
+[0;32m1410 philo 72 is eating
+[0;32m1410 philo 74 has taken a left fork
+[0;32m1410 philo 76 is thinking
+[0;32m1411 philo 75 is sleeping
+[0;32m1411 philo 74 has taken a right fork
+[0;32m1411 philo 74 is eating
+[0;32m1411 philo 76 has taken a left fork
+[0;32m1411 philo 77 is sleeping
+[0;32m1411 philo 78 is thinking
+[0;32m1411 philo 78 has taken a left fork
+[0;32m1411 philo 76 has taken a right fork
+[0;32m1411 philo 76 is eating
+[0;32m1411 philo 80 is thinking
+[0;32m1411 philo 79 is sleeping
+[0;32m1411 philo 78 has taken a right fork
+[0;32m1411 philo 78 is eating
+[0;32m1411 philo 80 has taken a left fork
+[0;32m1412 philo 82 is thinking
+[0;32m1412 philo 81 is sleeping
+[0;32m1412 philo 80 has taken a right fork
+[0;32m1412 philo 80 is eating
+[0;32m1412 philo 82 has taken a left fork
+[0;32m1412 philo 84 is thinking
+[0;32m1412 philo 83 is sleeping
+[0;32m1412 philo 84 has taken a left fork
+[0;32m1412 philo 82 has taken a right fork
+[0;32m1412 philo 82 is eating
+[0;32m1412 philo 86 is thinking
+[0;32m1412 philo 85 is sleeping
+[0;32m1412 philo 84 has taken a right fork
+[0;32m1412 philo 84 is eating
+[0;32m1412 philo 86 has taken a left fork
+[0;32m1413 philo 88 is thinking
+[0;32m1413 philo 87 is sleeping
+[0;32m1413 philo 88 has taken a left fork
+[0;32m1413 philo 86 has taken a right fork
+[0;32m1413 philo 86 is eating
+[0;32m1413 philo 90 is thinking
+[0;32m1413 philo 89 is sleeping
+[0;32m1413 philo 88 has taken a right fork
+[0;32m1413 philo 88 is eating
+[0;32m1413 philo 90 has taken a left fork
+[0;32m1413 philo 91 is sleeping
+[0;32m1413 philo 90 has taken a right fork
+[0;32m1413 philo 90 is eating
+[0;32m1413 philo 92 is thinking
+[0;32m1413 philo 92 has taken a left fork
+[0;32m1414 philo 93 is sleeping
+[0;32m1414 philo 94 is thinking
+[0;32m1414 philo 94 has taken a left fork
+[0;32m1414 philo 92 has taken a right fork
+[0;32m1414 philo 92 is eating
+[0;32m1414 philo 4 is thinking
+[0;32m1414 philo 100 is thinking
+[0;32m1414 philo 5 is sleeping
+[0;32m1414 philo 6 has taken a left fork
+[0;32m1414 philo 6 has taken a right fork
+[0;32m1414 philo 6 is eating
+[0;32m1414 philo 2 is thinking
+[0;32m1414 philo 96 is thinking
+[0;32m1414 philo 3 is sleeping
+[0;32m1414 philo 94 has taken a right fork
+[0;32m1414 philo 94 is eating
+[0;32m1414 philo 4 has taken a left fork
+[0;32m1414 philo 2 has taken a left fork
+[0;32m1414 philo 4 has taken a right fork
+[0;32m1414 philo 2 has taken a right fork
+[0;32m1414 philo 4 is eating
+[0;32m1414 philo 2 is eating
+[0;32m1414 philo 96 has taken a left fork
+[0;32m1414 philo 99 is sleeping
+[0;32m1414 philo 1 is sleeping
+[0;32m1414 philo 100 has taken a left fork
+[0;32m1414 philo 100 has taken a right fork
+[0;32m1414 philo 98 is thinking
+[0;32m1414 philo 100 is eating
+[0;32m1414 philo 98 has taken a left fork
+[0;32m1414 philo 98 has taken a right fork
+[0;32m1414 philo 98 is eating
+[0;32m1414 philo 95 is sleeping
+[0;32m1414 philo 97 is sleeping
+[0;32m1414 philo 96 has taken a right fork
+[0;32m1414 philo 96 is eating
+[0;32m1602 philo 7 is thinking
+[0;32m1602 philo 9 is thinking
+[0;32m1602 philo 8 is sleeping
+[0;32m1602 philo 9 has taken a left fork
+[0;32m1602 philo 11 is thinking
+[0;32m1602 philo 10 is sleeping
+[0;32m1602 philo 9 has taken a right fork
+[0;32m1602 philo 9 is eating
+[0;32m1602 philo 11 has taken a left fork
+[0;32m1602 philo 13 is thinking
+[0;32m1602 philo 12 is sleeping
+[0;32m1602 philo 11 has taken a right fork
+[0;32m1602 philo 11 is eating
+[0;32m1602 philo 13 has taken a left fork
+[0;32m1603 philo 15 is thinking
+[0;32m1603 philo 13 has taken a right fork
+[0;32m1603 philo 13 is eating
+[0;32m1603 philo 15 has taken a left fork
+[0;32m1603 philo 14 is sleeping
+[0;32m1603 philo 16 is sleeping
+[0;32m1603 philo 15 has taken a right fork
+[0;32m1603 philo 15 is eating
+[0;32m1603 philo 17 is thinking
+[0;32m1603 philo 17 has taken a left fork
+[0;32m1603 philo 19 is thinking
+[0;32m1603 philo 18 is sleeping
+[0;32m1603 philo 17 has taken a right fork
+[0;32m1603 philo 17 is eating
+[0;32m1603 philo 19 has taken a left fork
+[0;32m1603 philo 20 is sleeping
+[0;32m1603 philo 21 is thinking
+[0;32m1603 philo 21 has taken a left fork
+[0;32m1603 philo 19 has taken a right fork
+[0;32m1603 philo 19 is eating
+[0;32m1604 philo 23 is thinking
+[0;32m1604 philo 22 is sleeping
+[0;32m1604 philo 23 has taken a left fork
+[0;32m1604 philo 21 has taken a right fork
+[0;32m1604 philo 21 is eating
+[0;32m1604 philo 25 is thinking
+[0;32m1604 philo 24 is sleeping
+[0;32m1604 philo 23 has taken a right fork
+[0;32m1604 philo 23 is eating
+[0;32m1604 philo 25 has taken a left fork
+[0;32m1604 philo 26 is sleeping
+[0;32m1604 philo 25 has taken a right fork
+[0;32m1604 philo 25 is eating
+[0;32m1604 philo 27 is thinking
+[0;32m1604 philo 27 has taken a left fork
+[0;32m1604 philo 28 is sleeping
+[0;32m1604 philo 27 has taken a right fork
+[0;32m1604 philo 27 is eating
+[0;32m1604 philo 29 is thinking
+[0;32m1604 philo 29 has taken a left fork
+[0;32m1605 philo 31 is thinking
+[0;32m1605 philo 30 is sleeping
+[0;32m1605 philo 31 has taken a left fork
+[0;32m1605 philo 29 has taken a right fork
+[0;32m1605 philo 29 is eating
+[0;32m1605 philo 32 is sleeping
+[0;32m1605 philo 31 has taken a right fork
+[0;32m1605 philo 31 is eating
+[0;32m1605 philo 33 is thinking
+[0;32m1605 philo 33 has taken a left fork
+[0;32m1605 philo 35 is thinking
+[0;32m1605 philo 34 is sleeping
+[0;32m1605 philo 33 has taken a right fork
+[0;32m1605 philo 33 is eating
+[0;32m1605 philo 35 has taken a left fork
+[0;32m1606 philo 37 is thinking
+[0;32m1606 philo 36 is sleeping
+[0;32m1606 philo 35 has taken a right fork
+[0;32m1606 philo 35 is eating
+[0;32m1606 philo 37 has taken a left fork
+[0;32m1606 philo 39 is thinking
+[0;32m1606 philo 38 is sleeping
+[0;32m1606 philo 37 has taken a right fork
+[0;32m1606 philo 37 is eating
+[0;32m1606 philo 39 has taken a left fork
+[0;32m1606 philo 40 is sleeping
+[0;32m1606 philo 39 has taken a right fork
+[0;32m1606 philo 39 is eating
+[0;32m1606 philo 41 is thinking
+[0;32m1606 philo 41 has taken a left fork
+[0;32m1606 philo 42 is sleeping
+[0;32m1606 philo 41 has taken a right fork
+[0;32m1606 philo 41 is eating
+[0;32m1606 philo 43 is thinking
+[0;32m1606 philo 43 has taken a left fork
+[0;32m1607 philo 44 is sleeping
+[0;32m1607 philo 45 is thinking
+[0;32m1607 philo 45 has taken a left fork
+[0;32m1607 philo 43 has taken a right fork
+[0;32m1607 philo 43 is eating
+[0;32m1607 philo 46 is sleeping
+[0;32m1607 philo 45 has taken a right fork
+[0;32m1607 philo 45 is eating
+[0;32m1607 philo 47 is thinking
+[0;32m1607 philo 47 has taken a left fork
+[0;32m1607 philo 49 is thinking
+[0;32m1607 philo 48 is sleeping
+[0;32m1607 philo 47 has taken a right fork
+[0;32m1607 philo 47 is eating
+[0;32m1607 philo 49 has taken a left fork
+[0;32m1607 philo 50 is sleeping
+[0;32m1607 philo 49 has taken a right fork
+[0;32m1607 philo 49 is eating
+[0;32m1607 philo 51 is thinking
+[0;32m1607 philo 51 has taken a left fork
+[0;32m1608 philo 52 is sleeping
+[0;32m1608 philo 51 has taken a right fork
+[0;32m1608 philo 51 is eating
+[0;32m1608 philo 53 is thinking
+[0;32m1608 philo 53 has taken a left fork
+[0;32m1608 philo 55 is thinking
+[0;32m1608 philo 54 is sleeping
+[0;32m1608 philo 53 has taken a right fork
+[0;32m1608 philo 53 is eating
+[0;32m1608 philo 55 has taken a left fork
+[0;32m1608 philo 57 is thinking
+[0;32m1608 philo 56 is sleeping
+[0;32m1608 philo 55 has taken a right fork
+[0;32m1608 philo 55 is eating
+[0;32m1608 philo 57 has taken a left fork
+[0;32m1608 philo 58 is sleeping
+[0;32m1608 philo 57 has taken a right fork
+[0;32m1608 philo 57 is eating
+[0;32m1608 philo 59 is thinking
+[0;32m1608 philo 59 has taken a left fork
+[0;32m1609 philo 61 is thinking
+[0;32m1609 philo 60 is sleeping
+[0;32m1609 philo 59 has taken a right fork
+[0;32m1609 philo 59 is eating
+[0;32m1609 philo 61 has taken a left fork
+[0;32m1609 philo 63 is thinking
+[0;32m1609 philo 61 has taken a right fork
+[0;32m1609 philo 61 is eating
+[0;32m1609 philo 62 is sleeping
+[0;32m1609 philo 63 has taken a left fork
+[0;32m1609 philo 65 is thinking
+[0;32m1609 philo 64 is sleeping
+[0;32m1609 philo 65 has taken a left fork
+[0;32m1609 philo 63 has taken a right fork
+[0;32m1609 philo 63 is eating
+[0;32m1609 philo 67 is thinking
+[0;32m1609 philo 65 has taken a right fork
+[0;32m1609 philo 65 is eating
+[0;32m1609 philo 66 is sleeping
+[0;32m1609 philo 67 has taken a left fork
+[0;32m1610 philo 69 is thinking
+[0;32m1610 philo 68 is sleeping
+[0;32m1610 philo 69 has taken a left fork
+[0;32m1610 philo 67 has taken a right fork
+[0;32m1610 philo 67 is eating
+[0;32m1610 philo 71 is thinking
+[0;32m1610 philo 73 is thinking
+[0;32m1610 philo 70 is sleeping
+[0;32m1610 philo 69 has taken a right fork
+[0;32m1610 philo 73 has taken a left fork
+[0;32m1610 philo 71 has taken a left fork
+[0;32m1610 philo 71 has taken a right fork
+[0;32m1610 philo 71 is eating
+[0;32m1610 philo 69 is eating
+[0;32m1610 philo 72 is sleeping
+[0;32m1611 philo 75 is thinking
+[0;32m1611 philo 74 is sleeping
+[0;32m1611 philo 73 has taken a right fork
+[0;32m1611 philo 73 is eating
+[0;32m1611 philo 75 has taken a left fork
+[0;32m1611 philo 76 is sleeping
+[0;32m1611 philo 75 has taken a right fork
+[0;32m1611 philo 75 is eating
+[0;32m1611 philo 77 is thinking
+[0;32m1611 philo 77 has taken a left fork
+[0;32m1611 philo 78 is sleeping
+[0;32m1611 philo 79 is thinking
+[0;32m1611 philo 79 has taken a left fork
+[0;32m1611 philo 77 has taken a right fork
+[0;32m1611 philo 77 is eating
+[0;32m1612 philo 81 is thinking
+[0;32m1612 philo 81 has taken a left fork
+[0;32m1612 philo 80 is sleeping
+[0;32m1612 philo 79 has taken a right fork
+[0;32m1612 philo 79 is eating
+[0;32m1612 philo 83 is thinking
+[0;32m1612 philo 82 is sleeping
+[0;32m1612 philo 81 has taken a right fork
+[0;32m1612 philo 81 is eating
+[0;32m1612 philo 83 has taken a left fork
+[0;32m1612 philo 85 is thinking
+[0;32m1612 philo 84 is sleeping
+[0;32m1612 philo 85 has taken a left fork
+[0;32m1612 philo 83 has taken a right fork
+[0;32m1612 philo 83 is eating
+[0;32m1613 philo 86 is sleeping
+[0;32m1613 philo 85 has taken a right fork
+[0;32m1613 philo 85 is eating
+[0;32m1613 philo 87 is thinking
+[0;32m1613 philo 87 has taken a left fork
+[0;32m1613 philo 89 is thinking
+[0;32m1613 philo 88 is sleeping
+[0;32m1613 philo 87 has taken a right fork
+[0;32m1613 philo 87 is eating
+[0;32m1613 philo 89 has taken a left fork
+[0;32m1613 philo 91 is thinking
+[0;32m1613 philo 90 is sleeping
+[0;32m1613 philo 89 has taken a right fork
+[0;32m1613 philo 89 is eating
+[0;32m1613 philo 91 has taken a left fork
+[0;32m1614 philo 93 is thinking
+[0;32m1614 philo 92 is sleeping
+[0;32m1614 philo 91 has taken a right fork
+[0;32m1614 philo 91 is eating
+[0;32m1614 philo 93 has taken a left fork
+[0;32m1614 philo 6 is sleeping
+[0;32m1614 philo 7 has taken a left fork
+[0;32m1614 philo 7 has taken a right fork
+[0;32m1614 philo 7 is eating
+[0;32m1614 philo 5 is thinking
+[0;32m1614 philo 3 is thinking
+[0;32m1614 philo 99 is thinking
+[0;32m1614 philo 2 is sleeping
+[0;32m1614 philo 94 is sleeping
+[0;32m1614 philo 4 is sleeping
+[0;32m1614 philo 93 has taken a right fork
+[0;32m1614 philo 93 is eating
+[0;32m1614 philo 5 has taken a left fork
+[0;32m1614 philo 5 has taken a right fork
+[0;32m1614 philo 5 is eating
+[0;32m1614 philo 3 has taken a left fork
+[0;32m1614 philo 3 has taken a right fork
+[0;32m1614 philo 3 is eating
+[0;32m1614 philo 1 is thinking
+[0;32m1614 philo 98 is sleeping
+[0;32m1614 philo 97 is thinking
+[0;32m1614 philo 99 has taken a left fork
+[0;32m1614 philo 100 is sleeping
+[0;32m1614 philo 1 has taken a left fork
+[0;32m1614 philo 1 has taken a right fork
+[0;32m1614 philo 95 is thinking
+[0;32m1614 philo 95 has taken a left fork
+[0;32m1614 philo 96 is sleeping
+[0;32m1614 philo 1 is eating
+[0;32m1614 philo 95 has taken a right fork
+[0;32m1614 philo 95 is eating
+[0;32m1614 philo 97 has taken a left fork
+[0;32m1614 philo 97 has taken a right fork
+[0;32m1614 philo 97 is eating
+[0;32m1614 philo 99 has taken a right fork
+[0;32m1614 philo 99 is eating
+[0;32m1802 philo 8 is thinking
+[0;32m1802 philo 10 is thinking
+[0;32m1802 philo 9 is sleeping
+[0;32m1802 philo 10 has taken a left fork
+[0;32m1802 philo 12 is thinking
+[0;32m1802 philo 12 has taken a left fork
+[0;32m1802 philo 11 is sleeping
+[0;32m1802 philo 10 has taken a right fork
+[0;32m1802 philo 10 is eating
+[0;32m1803 philo 13 is sleeping
+[0;32m1803 philo 12 has taken a right fork
+[0;32m1803 philo 12 is eating
+[0;32m1803 philo 14 is thinking
+[0;32m1803 philo 14 has taken a left fork
+[0;32m1803 philo 16 is thinking
+[0;32m1803 philo 15 is sleeping
+[0;32m1803 philo 14 has taken a right fork
+[0;32m1803 philo 14 is eating
+[0;32m1803 philo 16 has taken a left fork
+[0;32m1803 philo 18 is thinking
+[0;32m1803 philo 17 is sleeping
+[0;32m1803 philo 16 has taken a right fork
+[0;32m1803 philo 16 is eating
+[0;32m1803 philo 18 has taken a left fork
+[0;32m1803 philo 20 is thinking
+[0;32m1803 philo 19 is sleeping
+[0;32m1803 philo 18 has taken a right fork
+[0;32m1804 philo 18 is eating
+[0;32m1804 philo 20 has taken a left fork
+[0;32m1804 philo 22 is thinking
+[0;32m1804 philo 21 is sleeping
+[0;32m1804 philo 20 has taken a right fork
+[0;32m1804 philo 20 is eating
+[0;32m1804 philo 22 has taken a left fork
+[0;32m1804 philo 24 is thinking
+[0;32m1804 philo 22 has taken a right fork
+[0;32m1804 philo 22 is eating
+[0;32m1804 philo 23 is sleeping
+[0;32m1804 philo 24 has taken a left fork
+[0;32m1804 philo 26 is thinking
+[0;32m1804 philo 25 is sleeping
+[0;32m1804 philo 24 has taken a right fork
+[0;32m1804 philo 24 is eating
+[0;32m1804 philo 26 has taken a left fork
+[0;32m1804 philo 28 is thinking
+[0;32m1804 philo 26 has taken a right fork
+[0;32m1804 philo 28 has taken a left fork
+[0;32m1804 philo 26 is eating
+[0;32m1804 philo 27 is sleeping
+[0;32m1805 philo 30 is thinking
+[0;32m1805 philo 28 has taken a right fork
+[0;32m1805 philo 29 is sleeping
+[0;32m1805 philo 28 is eating
+[0;32m1805 philo 30 has taken a left fork
+[0;32m1805 philo 32 is thinking
+[0;32m1805 philo 30 has taken a right fork
+[0;32m1805 philo 30 is eating
+[0;32m1805 philo 31 is sleeping
+[0;32m1805 philo 32 has taken a left fork
+[0;32m1805 philo 34 is thinking
+[0;32m1805 philo 33 is sleeping
+[0;32m1805 philo 32 has taken a right fork
+[0;32m1805 philo 32 is eating
+[0;32m1805 philo 34 has taken a left fork
+[0;32m1806 philo 35 is sleeping
+[0;32m1806 philo 34 has taken a right fork
+[0;32m1806 philo 34 is eating
+[0;32m1806 philo 36 is thinking
+[0;32m1806 philo 36 has taken a left fork
+[0;32m1806 philo 37 is sleeping
+[0;32m1806 philo 36 has taken a right fork
+[0;32m1806 philo 36 is eating
+[0;32m1806 philo 38 is thinking
+[0;32m1806 philo 38 has taken a left fork
+[0;32m1806 philo 40 is thinking
+[0;32m1806 philo 39 is sleeping
+[0;32m1806 philo 38 has taken a right fork
+[0;32m1806 philo 38 is eating
+[0;32m1806 philo 40 has taken a left fork
+[0;32m1806 philo 41 is sleeping
+[0;32m1806 philo 40 has taken a right fork
+[0;32m1806 philo 40 is eating
+[0;32m1806 philo 42 is thinking
+[0;32m1806 philo 42 has taken a left fork
+[0;32m1807 philo 44 is thinking
+[0;32m1807 philo 42 has taken a right fork
+[0;32m1807 philo 42 is eating
+[0;32m1807 philo 43 is sleeping
+[0;32m1807 philo 44 has taken a left fork
+[0;32m1807 philo 45 is sleeping
+[0;32m1807 philo 46 is thinking
+[0;32m1807 philo 46 has taken a left fork
+[0;32m1807 philo 44 has taken a right fork
+[0;32m1807 philo 44 is eating
+[0;32m1807 philo 48 is thinking
+[0;32m1807 philo 47 is sleeping
+[0;32m1807 philo 46 has taken a right fork
+[0;32m1807 philo 46 is eating
+[0;32m1807 philo 48 has taken a left fork
+[0;32m1807 philo 49 is sleeping
+[0;32m1807 philo 48 has taken a right fork
+[0;32m1807 philo 48 is eating
+[0;32m1807 philo 50 is thinking
+[0;32m1807 philo 50 has taken a left fork
+[0;32m1808 philo 51 is sleeping
+[0;32m1808 philo 52 is thinking
+[0;32m1808 philo 52 has taken a left fork
+[0;32m1808 philo 50 has taken a right fork
+[0;32m1808 philo 50 is eating
+[0;32m1808 philo 54 is thinking
+[0;32m1808 philo 53 is sleeping
+[0;32m1808 philo 52 has taken a right fork
+[0;32m1808 philo 52 is eating
+[0;32m1808 philo 54 has taken a left fork
+[0;32m1808 philo 55 is sleeping
+[0;32m1808 philo 56 is thinking
+[0;32m1808 philo 56 has taken a left fork
+[0;32m1808 philo 54 has taken a right fork
+[0;32m1808 philo 54 is eating
+[0;32m1808 philo 57 is sleeping
+[0;32m1808 philo 56 has taken a right fork
+[0;32m1808 philo 56 is eating
+[0;32m1808 philo 58 is thinking
+[0;32m1808 philo 58 has taken a left fork
+[0;32m1809 philo 60 is thinking
+[0;32m1809 philo 59 is sleeping
+[0;32m1809 philo 58 has taken a right fork
+[0;32m1809 philo 58 is eating
+[0;32m1809 philo 60 has taken a left fork
+[0;32m1809 philo 62 is thinking
+[0;32m1809 philo 61 is sleeping
+[0;32m1809 philo 60 has taken a right fork
+[0;32m1809 philo 60 is eating
+[0;32m1809 philo 62 has taken a left fork
+[0;32m1809 philo 63 is sleeping
+[0;32m1809 philo 62 has taken a right fork
+[0;32m1809 philo 62 is eating
+[0;32m1809 philo 64 is thinking
+[0;32m1809 philo 64 has taken a left fork
+[0;32m1809 philo 65 is sleeping
+[0;32m1809 philo 64 has taken a right fork
+[0;32m1809 philo 64 is eating
+[0;32m1810 philo 66 is thinking
+[0;32m1810 philo 66 has taken a left fork
+[0;32m1810 philo 67 is sleeping
+[0;32m1810 philo 66 has taken a right fork
+[0;32m1810 philo 66 is eating
+[0;32m1810 philo 68 is thinking
+[0;32m1810 philo 68 has taken a left fork
+[0;32m1810 philo 70 is thinking
+[0;32m1810 philo 72 is thinking
+[0;32m1810 philo 68 has taken a right fork
+[0;32m1810 philo 68 is eating
+[0;32m1811 philo 72 has taken a left fork
+[0;32m1811 philo 69 is sleeping
+[0;32m1811 philo 70 has taken a left fork
+[0;32m1811 philo 70 has taken a right fork
+[0;32m1811 philo 70 is eating
+[0;32m1811 philo 71 is sleeping
+[0;32m1811 philo 73 is sleeping
+[0;32m1811 philo 72 has taken a right fork
+[0;32m1811 philo 72 is eating
+[0;32m1811 philo 74 is thinking
+[0;32m1811 philo 74 has taken a left fork
+[0;32m1811 philo 76 is thinking
+[0;32m1811 philo 75 is sleeping
+[0;32m1811 philo 74 has taken a right fork
+[0;32m1811 philo 74 is eating
+[0;32m1811 philo 76 has taken a left fork
+[0;32m1811 philo 78 is thinking
+[0;32m1811 philo 77 is sleeping
+[0;32m1811 philo 76 has taken a right fork
+[0;32m1811 philo 76 is eating
+[0;32m1811 philo 78 has taken a left fork
+[0;32m1812 philo 80 is thinking
+[0;32m1812 philo 78 has taken a right fork
+[0;32m1812 philo 78 is eating
+[0;32m1812 philo 79 is sleeping
+[0;32m1812 philo 80 has taken a left fork
+[0;32m1812 philo 81 is sleeping
+[0;32m1812 philo 80 has taken a right fork
+[0;32m1812 philo 80 is eating
+[0;32m1812 philo 82 is thinking
+[0;32m1812 philo 82 has taken a left fork
+[0;32m1813 philo 83 is sleeping
+[0;32m1813 philo 82 has taken a right fork
+[0;32m1813 philo 82 is eating
+[0;32m1813 philo 84 is thinking
+[0;32m1813 philo 84 has taken a left fork
+[0;32m1813 philo 85 is sleeping
+[0;32m1813 philo 84 has taken a right fork
+[0;32m1813 philo 84 is eating
+[0;32m1813 philo 86 is thinking
+[0;32m1813 philo 86 has taken a left fork
+[0;32m1813 philo 87 is sleeping
+[0;32m1813 philo 86 has taken a right fork
+[0;32m1813 philo 86 is eating
+[0;32m1813 philo 88 is thinking
+[0;32m1813 philo 88 has taken a left fork
+[0;32m1813 philo 90 is thinking
+[0;32m1813 philo 89 is sleeping
+[0;32m1813 philo 88 has taken a right fork
+[0;32m1813 philo 88 is eating
+[0;32m1813 philo 90 has taken a left fork
+[0;32m1814 philo 92 is thinking
+[0;32m1814 philo 91 is sleeping
+[0;32m1814 philo 90 has taken a right fork
+[0;32m1814 philo 90 is eating
+[0;32m1814 philo 92 has taken a left fork
+[0;32m1814 philo 6 is thinking
+[0;32m1814 philo 7 is sleeping
+[0;32m1814 philo 8 has taken a left fork
+[0;32m1814 philo 8 has taken a right fork
+[0;32m1814 philo 8 is eating
+[0;32m1814 philo 2 is thinking
+[0;32m1814 philo 4 is thinking
+[0;32m1814 philo 94 is thinking
+[0;32m1814 philo 5 is sleeping
+[0;32m1814 philo 6 has taken a left fork
+[0;32m1814 philo 6 has taken a right fork
+[0;32m1814 philo 6 is eating
+[0;32m1814 philo 93 is sleeping
+[0;32m1814 philo 92 has taken a right fork
+[0;32m1814 philo 92 is eating
+[0;32m1814 philo 94 has taken a left fork
+[0;32m1814 philo 3 is sleeping
+[0;32m1814 philo 4 has taken a left fork
+[0;32m1814 philo 4 has taken a right fork
+[0;32m1814 philo 4 is eating
+[0;32m1814 philo 96 is thinking
+[0;32m1814 philo 95 is sleeping
+[0;32m1814 philo 94 has taken a right fork
+[0;32m1814 philo 94 is eating
+[0;32m1814 philo 97 is sleeping
+[0;32m1814 philo 98 is thinking
+[0;32m1814 philo 98 has taken a left fork
+[0;32m1814 philo 100 is thinking
+[0;32m1814 philo 96 has taken a left fork
+[0;32m1814 philo 96 has taken a right fork
+[0;32m1814 philo 96 is eating
+[0;32m1814 philo 99 is sleeping
+[0;32m1814 philo 98 has taken a right fork
+[0;32m1814 philo 98 is eating
+[0;32m1814 philo 100 has taken a left fork
+[0;32m1814 philo 1 is sleeping
+[0;32m1814 philo 100 has taken a right fork
+[0;32m1814 philo 100 is eating
+[0;32m1814 philo 2 has taken a left fork
+[0;32m1814 philo 2 has taken a right fork
+[0;32m1814 philo 2 is eating
+[0;32m2002 philo 9 is thinking
+[0;32m2002 philo 11 is thinking
+[0;32m2002 philo 10 is sleeping
+[0;32m2002 philo 11 has taken a left fork
+[0;32m2003 philo 12 is sleeping
+[0;32m2003 philo 13 is thinking
+[0;32m2003 philo 13 has taken a left fork
+[0;32m2003 philo 11 has taken a right fork
+[0;32m2003 philo 11 is eating
+[0;32m2003 philo 15 is thinking
+[0;32m2003 philo 14 is sleeping
+[0;32m2003 philo 13 has taken a right fork
+[0;32m2003 philo 13 is eating
+[0;32m2003 philo 15 has taken a left fork
+[0;32m2003 philo 17 is thinking
+[0;32m2003 philo 16 is sleeping
+[0;32m2003 philo 15 has taken a right fork
+[0;32m2003 philo 15 is eating
+[0;32m2003 philo 17 has taken a left fork
+[0;32m2004 philo 19 is thinking
+[0;32m2004 philo 18 is sleeping
+[0;32m2004 philo 17 has taken a right fork
+[0;32m2004 philo 17 is eating
+[0;32m2004 philo 19 has taken a left fork
+[0;32m2004 philo 20 is sleeping
+[0;32m2004 philo 19 has taken a right fork
+[0;32m2004 philo 19 is eating
+[0;32m2004 philo 21 is thinking
+[0;32m2004 philo 21 has taken a left fork
+[0;32m2004 philo 22 is sleeping
+[0;32m2004 philo 21 has taken a right fork
+[0;32m2004 philo 21 is eating
+[0;32m2004 philo 23 is thinking
+[0;32m2004 philo 23 has taken a left fork
+[0;32m2004 philo 25 is thinking
+[0;32m2004 philo 24 is sleeping
+[0;32m2004 philo 23 has taken a right fork
+[0;32m2004 philo 23 is eating
+[0;32m2004 philo 25 has taken a left fork
+[0;32m2004 philo 26 is sleeping
+[0;32m2004 philo 27 is thinking
+[0;32m2004 philo 27 has taken a left fork
+[0;32m2004 philo 25 has taken a right fork
+[0;32m2004 philo 25 is eating
+[0;32m2005 philo 29 is thinking
+[0;32m2005 philo 28 is sleeping
+[0;32m2005 philo 27 has taken a right fork
+[0;32m2005 philo 27 is eating
+[0;32m2005 philo 29 has taken a left fork
+[0;32m2005 philo 30 is sleeping
+[0;32m2005 philo 31 is thinking
+[0;32m2005 philo 31 has taken a left fork
+[0;32m2005 philo 29 has taken a right fork
+[0;32m2005 philo 29 is eating
+[0;32m2005 philo 32 is sleeping
+[0;32m2005 philo 31 has taken a right fork
+[0;32m2005 philo 31 is eating
+[0;32m2005 philo 33 is thinking
+[0;32m2005 philo 33 has taken a left fork
+[0;32m2006 philo 35 is thinking
+[0;32m2006 philo 34 is sleeping
+[0;32m2006 philo 33 has taken a right fork
+[0;32m2006 philo 33 is eating
+[0;32m2006 philo 35 has taken a left fork
+[0;32m2006 philo 37 is thinking
+[0;32m2006 philo 36 is sleeping
+[0;32m2006 philo 37 has taken a left fork
+[0;32m2006 philo 35 has taken a right fork
+[0;32m2006 philo 35 is eating
+[0;32m2006 philo 38 is sleeping
+[0;32m2006 philo 37 has taken a right fork
+[0;32m2006 philo 37 is eating
+[0;32m2006 philo 39 is thinking
+[0;32m2006 philo 39 has taken a left fork
+[0;32m2006 philo 41 is thinking
+[0;32m2006 philo 40 is sleeping
+[0;32m2006 philo 39 has taken a right fork
+[0;32m2006 philo 39 is eating
+[0;32m2006 philo 41 has taken a left fork
+[0;32m2007 philo 42 is sleeping
+[0;32m2007 philo 41 has taken a right fork
+[0;32m2007 philo 41 is eating
+[0;32m2007 philo 43 is thinking
+[0;32m2007 philo 43 has taken a left fork
+[0;32m2007 philo 44 is sleeping
+[0;32m2007 philo 43 has taken a right fork
+[0;32m2007 philo 43 is eating
+[0;32m2007 philo 45 is thinking
+[0;32m2007 philo 45 has taken a left fork
+[0;32m2007 philo 46 is sleeping
+[0;32m2007 philo 45 has taken a right fork
+[0;32m2007 philo 45 is eating
+[0;32m2007 philo 47 is thinking
+[0;32m2007 philo 47 has taken a left fork
+[0;32m2007 philo 49 is thinking
+[0;32m2007 philo 48 is sleeping
+[0;32m2007 philo 47 has taken a right fork
+[0;32m2007 philo 47 is eating
+[0;32m2007 philo 49 has taken a left fork
+[0;32m2008 philo 50 is sleeping
+[0;32m2008 philo 49 has taken a right fork
+[0;32m2008 philo 49 is eating
+[0;32m2008 philo 51 is thinking
+[0;32m2008 philo 51 has taken a left fork
+[0;32m2008 philo 53 is thinking
+[0;32m2008 philo 52 is sleeping
+[0;32m2008 philo 51 has taken a right fork
+[0;32m2008 philo 51 is eating
+[0;32m2008 philo 53 has taken a left fork
+[0;32m2008 philo 54 is sleeping
+[0;32m2008 philo 53 has taken a right fork
+[0;32m2008 philo 53 is eating
+[0;32m2008 philo 55 is thinking
+[0;32m2008 philo 55 has taken a left fork
+[0;32m2008 philo 57 is thinking
+[0;32m2008 philo 56 is sleeping
+[0;32m2008 philo 57 has taken a left fork
+[0;32m2008 philo 55 has taken a right fork
+[0;32m2008 philo 55 is eating
+[0;32m2009 philo 58 is sleeping
+[0;32m2009 philo 57 has taken a right fork
+[0;32m2009 philo 57 is eating
+[0;32m2009 philo 59 is thinking
+[0;32m2009 philo 59 has taken a left fork
+[0;32m2009 philo 61 is thinking
+[0;32m2009 philo 60 is sleeping
+[0;32m2009 philo 59 has taken a right fork
+[0;32m2009 philo 59 is eating
+[0;32m2009 philo 61 has taken a left fork
+[0;32m2009 philo 63 is thinking
+[0;32m2009 philo 62 is sleeping
+[0;32m2009 philo 61 has taken a right fork
+[0;32m2009 philo 61 is eating
+[0;32m2009 philo 63 has taken a left fork
+[0;32m2010 philo 65 is thinking
+[0;32m2010 philo 64 is sleeping
+[0;32m2010 philo 63 has taken a right fork
+[0;32m2010 philo 63 is eating
+[0;32m2010 philo 65 has taken a left fork
+[0;32m2010 philo 67 is thinking
+[0;32m2010 philo 66 is sleeping
+[0;32m2010 philo 65 has taken a right fork
+[0;32m2010 philo 65 is eating
+[0;32m2010 philo 67 has taken a left fork
+[0;32m2011 philo 69 is thinking
+[0;32m2011 philo 67 has taken a right fork
+[0;32m2011 philo 67 is eating
+[0;32m2011 philo 71 is thinking
+[0;32m2011 philo 68 is sleeping
+[0;32m2011 philo 69 has taken a left fork
+[0;32m2011 philo 70 is sleeping
+[0;32m2011 philo 69 has taken a right fork
+[0;32m2011 philo 69 is eating
+[0;32m2011 philo 71 has taken a left fork
+[0;32m2011 philo 73 is thinking
+[0;32m2011 philo 72 is sleeping
+[0;32m2011 philo 71 has taken a right fork
+[0;32m2011 philo 71 is eating
+[0;32m2011 philo 73 has taken a left fork
+[0;32m2011 philo 74 is sleeping
+[0;32m2011 philo 73 has taken a right fork
+[0;32m2011 philo 73 is eating
+[0;32m2011 philo 75 is thinking
+[0;32m2011 philo 75 has taken a left fork
+[0;32m2011 philo 76 is sleeping
+[0;32m2011 philo 77 is thinking
+[0;32m2011 philo 77 has taken a left fork
+[0;32m2011 philo 75 has taken a right fork
+[0;32m2011 philo 75 is eating
+[0;32m2012 philo 78 is sleeping
+[0;32m2012 philo 77 has taken a right fork
+[0;32m2012 philo 77 is eating
+[0;32m2012 philo 79 is thinking
+[0;32m2012 philo 79 has taken a left fork
+[0;32m2012 philo 80 is sleeping
+[0;32m2012 philo 81 is thinking
+[0;32m2012 philo 81 has taken a left fork
+[0;32m2012 philo 79 has taken a right fork
+[0;32m2012 philo 79 is eating
+[0;32m2013 philo 83 is thinking
+[0;32m2013 philo 82 is sleeping
+[0;32m2013 philo 81 has taken a right fork
+[0;32m2013 philo 81 is eating
+[0;32m2013 philo 83 has taken a left fork
+[0;32m2013 philo 85 is thinking
+[0;32m2013 philo 84 is sleeping
+[0;32m2013 philo 83 has taken a right fork
+[0;32m2013 philo 83 is eating
+[0;32m2013 philo 85 has taken a left fork
+[0;32m2013 philo 86 is sleeping
+[0;32m2013 philo 87 is thinking
+[0;32m2013 philo 87 has taken a left fork
+[0;32m2013 philo 85 has taken a right fork
+[0;32m2013 philo 85 is eating
+[0;32m2013 philo 89 is thinking
+[0;32m2013 philo 88 is sleeping
+[0;32m2013 philo 87 has taken a right fork
+[0;32m2013 philo 87 is eating
+[0;32m2013 philo 89 has taken a left fork
+[0;32m2014 philo 90 is sleeping
+[0;32m2014 philo 89 has taken a right fork
+[0;32m2014 philo 89 is eating
+[0;32m2014 philo 91 is thinking
+[0;32m2014 philo 91 has taken a left fork
+[0;32m2014 philo 8 is sleeping
+[0;32m2014 philo 7 is thinking
+[0;32m2014 philo 9 has taken a left fork
+[0;32m2014 philo 9 has taken a right fork
+[0;32m2014 philo 9 is eating
+[0;32m2014 philo 3 is thinking
+[0;32m2014 philo 5 is thinking
+[0;32m2014 philo 6 is sleeping
+[0;32m2014 philo 7 has taken a left fork
+[0;32m2014 philo 7 has taken a right fork
+[0;32m2014 philo 7 is eating
+[0;32m2014 philo 93 is thinking
+[0;32m2014 philo 92 is sleeping
+[0;32m2014 philo 4 is sleeping
+[0;32m2014 philo 91 has taken a right fork
+[0;32m2014 philo 91 is eating
+[0;32m2014 philo 93 has taken a left fork
+[0;32m2014 philo 93 has taken a right fork
+[0;32m2014 philo 93 is eating
+[0;32m2014 philo 5 has taken a left fork
+[0;32m2014 philo 5 has taken a right fork
+[0;32m2014 philo 5 is eating
+[0;32m2014 philo 95 is thinking
+[0;32m2014 philo 95 has taken a left fork
+[0;32m2014 philo 97 is thinking
+[0;32m2014 philo 96 is sleeping
+[0;32m2014 philo 95 has taken a right fork
+[0;32m2014 philo 98 is sleeping
+[0;32m2014 philo 95 is eating
+[0;32m2014 philo 97 has taken a left fork
+[0;32m2014 philo 1 is thinking
+[0;32m2014 philo 97 has taken a right fork
+[0;32m2014 philo 97 is eating
+[0;32m2014 philo 100 is sleeping
+[0;32m2014 philo 1 has taken a left fork
+[0;32m2014 philo 99 is thinking
+[0;32m2014 philo 99 has taken a left fork
+[0;32m2014 philo 99 has taken a right fork
+[0;32m2014 philo 99 is eating
+[0;32m2014 philo 94 is sleeping
+[0;32m2014 philo 2 is sleeping
+[0;32m2014 philo 1 has taken a right fork
+[0;32m2014 philo 1 is eating
+[0;32m2014 philo 3 has taken a left fork
+[0;32m2014 philo 3 has taken a right fork
+[0;32m2014 philo 3 is eating
+[0;32m2203 philo 10 is thinking
+[0;32m2203 philo 12 is thinking
+[0;32m2203 philo 11 is sleeping
+[0;32m2203 philo 12 has taken a left fork
+[0;32m2203 philo 14 is thinking
+[0;32m2203 philo 12 has taken a right fork
+[0;32m2203 philo 12 is eating
+[0;32m2203 philo 13 is sleeping
+[0;32m2203 philo 14 has taken a left fork
+[0;32m2203 philo 15 is sleeping
+[0;32m2203 philo 16 is thinking
+[0;32m2203 philo 16 has taken a left fork
+[0;32m2203 philo 14 has taken a right fork
+[0;32m2203 philo 14 is eating
+[0;32m2204 philo 17 is sleeping
+[0;32m2204 philo 16 has taken a right fork
+[0;32m2204 philo 16 is eating
+[0;32m2204 philo 18 is thinking
+[0;32m2204 philo 18 has taken a left fork
+[0;32m2204 philo 20 is thinking
+[0;32m2204 philo 19 is sleeping
+[0;32m2204 philo 18 has taken a right fork
+[0;32m2204 philo 18 is eating
+[0;32m2204 philo 20 has taken a left fork
+[0;32m2204 philo 22 is thinking
+[0;32m2204 philo 21 is sleeping
+[0;32m2204 philo 20 has taken a right fork
+[0;32m2204 philo 20 is eating
+[0;32m2204 philo 22 has taken a left fork
+[0;32m2204 philo 24 is thinking
+[0;32m2204 philo 23 is sleeping
+[0;32m2204 philo 22 has taken a right fork
+[0;32m2204 philo 22 is eating
+[0;32m2204 philo 24 has taken a left fork
+[0;32m2205 philo 25 is sleeping
+[0;32m2205 philo 24 has taken a right fork
+[0;32m2205 philo 24 is eating
+[0;32m2205 philo 26 is thinking
+[0;32m2205 philo 26 has taken a left fork
+[0;32m2205 philo 27 is sleeping
+[0;32m2205 philo 28 is thinking
+[0;32m2205 philo 28 has taken a left fork
+[0;32m2205 philo 26 has taken a right fork
+[0;32m2205 philo 26 is eating
+[0;32m2205 philo 30 is thinking
+[0;32m2205 philo 29 is sleeping
+[0;32m2205 philo 28 has taken a right fork
+[0;32m2205 philo 28 is eating
+[0;32m2205 philo 30 has taken a left fork
+[0;32m2205 philo 31 is sleeping
+[0;32m2205 philo 32 is thinking
+[0;32m2205 philo 32 has taken a left fork
+[0;32m2205 philo 30 has taken a right fork
+[0;32m2205 philo 30 is eating
+[0;32m2206 philo 34 is thinking
+[0;32m2206 philo 33 is sleeping
+[0;32m2206 philo 32 has taken a right fork
+[0;32m2206 philo 32 is eating
+[0;32m2206 philo 34 has taken a left fork
+[0;32m2206 philo 36 is thinking
+[0;32m2206 philo 35 is sleeping
+[0;32m2206 philo 34 has taken a right fork
+[0;32m2206 philo 34 is eating
+[0;32m2206 philo 36 has taken a left fork
+[0;32m2206 philo 37 is sleeping
+[0;32m2206 philo 36 has taken a right fork
+[0;32m2206 philo 36 is eating
+[0;32m2206 philo 38 is thinking
+[0;32m2206 philo 38 has taken a left fork
+[0;32m2206 philo 39 is sleeping
+[0;32m2206 philo 40 is thinking
+[0;32m2206 philo 40 has taken a left fork
+[0;32m2206 philo 38 has taken a right fork
+[0;32m2206 philo 38 is eating
+[0;32m2207 philo 42 is thinking
+[0;32m2207 philo 40 has taken a right fork
+[0;32m2207 philo 40 is eating
+[0;32m2207 philo 41 is sleeping
+[0;32m2207 philo 42 has taken a left fork
+[0;32m2207 philo 44 is thinking
+[0;32m2207 philo 43 is sleeping
+[0;32m2207 philo 42 has taken a right fork
+[0;32m2207 philo 42 is eating
+[0;32m2207 philo 44 has taken a left fork
+[0;32m2207 philo 46 is thinking
+[0;32m2207 philo 44 has taken a right fork
+[0;32m2207 philo 44 is eating
+[0;32m2207 philo 45 is sleeping
+[0;32m2207 philo 46 has taken a left fork
+[0;32m2207 philo 47 is sleeping
+[0;32m2207 philo 46 has taken a right fork
+[0;32m2207 philo 46 is eating
+[0;32m2207 philo 48 is thinking
+[0;32m2207 philo 48 has taken a left fork
+[0;32m2208 philo 49 is sleeping
+[0;32m2208 philo 48 has taken a right fork
+[0;32m2208 philo 48 is eating
+[0;32m2208 philo 50 is thinking
+[0;32m2208 philo 50 has taken a left fork
+[0;32m2208 philo 52 is thinking
+[0;32m2208 philo 51 is sleeping
+[0;32m2208 philo 50 has taken a right fork
+[0;32m2208 philo 50 is eating
+[0;32m2208 philo 52 has taken a left fork
+[0;32m2208 philo 53 is sleeping
+[0;32m2208 philo 52 has taken a right fork
+[0;32m2208 philo 52 is eating
+[0;32m2208 philo 54 is thinking
+[0;32m2208 philo 54 has taken a left fork
+[0;32m2208 philo 56 is thinking
+[0;32m2208 philo 55 is sleeping
+[0;32m2208 philo 54 has taken a right fork
+[0;32m2208 philo 54 is eating
+[0;32m2208 philo 56 has taken a left fork
+[0;32m2209 philo 58 is thinking
+[0;32m2209 philo 57 is sleeping
+[0;32m2209 philo 56 has taken a right fork
+[0;32m2209 philo 56 is eating
+[0;32m2209 philo 58 has taken a left fork
+[0;32m2209 philo 60 is thinking
+[0;32m2209 philo 58 has taken a right fork
+[0;32m2209 philo 58 is eating
+[0;32m2209 philo 60 has taken a left fork
+[0;32m2209 philo 59 is sleeping
+[0;32m2209 philo 61 is sleeping
+[0;32m2209 philo 62 is thinking
+[0;32m2209 philo 62 has taken a left fork
+[0;32m2209 philo 60 has taken a right fork
+[0;32m2209 philo 60 is eating
+[0;32m2210 philo 63 is sleeping
+[0;32m2210 philo 62 has taken a right fork
+[0;32m2210 philo 62 is eating
+[0;32m2210 philo 64 is thinking
+[0;32m2210 philo 64 has taken a left fork
+[0;32m2210 philo 66 is thinking
+[0;32m2210 philo 65 is sleeping
+[0;32m2210 philo 64 has taken a right fork
+[0;32m2210 philo 64 is eating
+[0;32m2210 philo 66 has taken a left fork
+[0;32m2211 philo 67 is sleeping
+[0;32m2211 philo 70 is thinking
+[0;32m2211 philo 66 has taken a right fork
+[0;32m2211 philo 66 is eating
+[0;32m2211 philo 69 is sleeping
+[0;32m2211 philo 70 has taken a left fork
+[0;32m2211 philo 68 is thinking
+[0;32m2211 philo 68 has taken a left fork
+[0;32m2211 philo 68 has taken a right fork
+[0;32m2211 philo 68 is eating
+[0;32m2211 philo 72 is thinking
+[0;32m2211 philo 71 is sleeping
+[0;32m2211 philo 70 has taken a right fork
+[0;32m2211 philo 70 is eating
+[0;32m2211 philo 72 has taken a left fork
+[0;32m2211 philo 74 is thinking
+[0;32m2211 philo 73 is sleeping
+[0;32m2211 philo 72 has taken a right fork
+[0;32m2211 philo 72 is eating
+[0;32m2211 philo 74 has taken a left fork
+[0;32m2211 philo 75 is sleeping
+[0;32m2211 philo 74 has taken a right fork
+[0;32m2211 philo 74 is eating
+[0;32m2211 philo 76 is thinking
+[0;32m2211 philo 76 has taken a left fork
+[0;32m2212 philo 78 is thinking
+[0;32m2212 philo 77 is sleeping
+[0;32m2212 philo 76 has taken a right fork
+[0;32m2212 philo 76 is eating
+[0;32m2212 philo 78 has taken a left fork
+[0;32m2212 philo 80 is thinking
+[0;32m2212 philo 79 is sleeping
+[0;32m2212 philo 78 has taken a right fork
+[0;32m2212 philo 78 is eating
+[0;32m2212 philo 80 has taken a left fork
+[0;32m2213 philo 82 is thinking
+[0;32m2213 philo 81 is sleeping
+[0;32m2213 philo 80 has taken a right fork
+[0;32m2213 philo 80 is eating
+[0;32m2213 philo 82 has taken a left fork
+[0;32m2213 philo 83 is sleeping
+[0;32m2213 philo 82 has taken a right fork
+[0;32m2213 philo 82 is eating
+[0;32m2213 philo 84 is thinking
+[0;32m2213 philo 84 has taken a left fork
+[0;32m2213 philo 86 is thinking
+[0;32m2213 philo 84 has taken a right fork
+[0;32m2213 philo 84 is eating
+[0;32m2213 philo 85 is sleeping
+[0;32m2213 philo 86 has taken a left fork
+[0;32m2213 philo 87 is sleeping
+[0;32m2213 philo 88 is thinking
+[0;32m2213 philo 88 has taken a left fork
+[0;32m2213 philo 86 has taken a right fork
+[0;32m2213 philo 86 is eating
+[0;32m2214 philo 89 is sleeping
+[0;32m2214 philo 88 has taken a right fork
+[0;32m2214 philo 88 is eating
+[0;32m2214 philo 90 is thinking
+[0;32m2214 philo 90 has taken a left fork
+[0;32m2214 philo 8 is thinking
+[0;32m2214 philo 9 is sleeping
+[0;32m2214 philo 10 has taken a left fork
+[0;32m2214 philo 10 has taken a right fork
+[0;32m2214 philo 10 is eating
+[0;32m2214 philo 7 is sleeping
+[0;32m2214 philo 6 is thinking
+[0;32m2214 philo 8 has taken a left fork
+[0;32m2214 philo 8 has taken a right fork
+[0;32m2214 philo 8 is eating
+[0;32m2214 philo 4 is thinking
+[0;32m2214 philo 92 is thinking
+[0;32m2214 philo 6 has taken a left fork
+[0;32m2214 philo 6 has taken a right fork
+[0;32m2214 philo 6 is eating
+[0;32m2214 philo 93 is sleeping
+[0;32m2214 philo 91 is sleeping
+[0;32m2214 philo 92 has taken a left fork
+[0;32m2214 philo 92 has taken a right fork
+[0;32m2214 philo 92 is eating
+[0;32m2214 philo 5 is sleeping
+[0;32m2214 philo 90 has taken a right fork
+[0;32m2214 philo 90 is eating
+[0;32m2214 philo 95 is sleeping
+[0;32m2214 philo 97 is sleeping
+[0;32m2214 philo 96 is thinking
+[0;32m2214 philo 96 has taken a left fork
+[0;32m2214 philo 96 has taken a right fork
+[0;32m2214 philo 96 is eating
+[0;32m2214 philo 100 is thinking
+[0;32m2214 philo 100 has taken a left fork
+[0;32m2214 philo 99 is sleeping
+[0;32m2214 philo 98 is thinking
+[0;32m2214 philo 98 has taken a left fork
+[0;32m2214 philo 98 has taken a right fork
+[0;32m2214 philo 98 is eating
+[0;32m2214 philo 94 is thinking
+[0;32m2214 philo 94 has taken a left fork
+[0;32m2214 philo 94 has taken a right fork
+[0;32m2214 philo 94 is eating
+[0;32m2214 philo 1 is sleeping
+[0;32m2214 philo 3 is sleeping
+[0;32m2214 philo 4 has taken a left fork
+[0;32m2214 philo 4 has taken a right fork
+[0;32m2214 philo 4 is eating
+[0;32m2214 philo 2 is thinking
+[0;32m2214 philo 2 has taken a left fork
+[0;32m2214 philo 2 has taken a right fork
+[0;32m2214 philo 2 is eating
+[0;32m2214 philo 100 has taken a right fork
+[0;32m2214 philo 100 is eating
+[0;32m2403 philo 11 is thinking
+[0;32m2403 philo 12 is sleeping
+[0;32m2403 philo 13 is thinking
+[0;32m2403 philo 13 has taken a left fork
+[0;32m2403 philo 15 is thinking
+[0;32m2403 philo 14 is sleeping
+[0;32m2403 philo 13 has taken a right fork
+[0;32m2403 philo 13 is eating
+[0;32m2403 philo 15 has taken a left fork
+[0;32m2404 philo 16 is sleeping
+[0;32m2404 philo 15 has taken a right fork
+[0;32m2404 philo 15 is eating
+[0;32m2404 philo 17 is thinking
+[0;32m2404 philo 17 has taken a left fork
+[0;32m2404 philo 18 is sleeping
+[0;32m2404 philo 17 has taken a right fork
+[0;32m2404 philo 17 is eating
+[0;32m2404 philo 19 is thinking
+[0;32m2404 philo 19 has taken a left fork
+[0;32m2404 philo 21 is thinking
+[0;32m2404 philo 20 is sleeping
+[0;32m2404 philo 19 has taken a right fork
+[0;32m2404 philo 19 is eating
+[0;32m2404 philo 21 has taken a left fork
+[0;32m2404 philo 23 is thinking
+[0;32m2404 philo 22 is sleeping
+[0;32m2404 philo 23 has taken a left fork
+[0;32m2404 philo 21 has taken a right fork
+[0;32m2404 philo 21 is eating
+[0;32m2405 philo 25 is thinking
+[0;32m2405 philo 24 is sleeping
+[0;32m2405 philo 23 has taken a right fork
+[0;32m2405 philo 23 is eating
+[0;32m2405 philo 25 has taken a left fork
+[0;32m2405 philo 27 is thinking
+[0;32m2405 philo 26 is sleeping
+[0;32m2405 philo 25 has taken a right fork
+[0;32m2405 philo 25 is eating
+[0;32m2405 philo 27 has taken a left fork
+[0;32m2405 philo 29 is thinking
+[0;32m2405 philo 28 is sleeping
+[0;32m2405 philo 27 has taken a right fork
+[0;32m2405 philo 27 is eating
+[0;32m2405 philo 29 has taken a left fork
+[0;32m2405 philo 31 is thinking
+[0;32m2405 philo 29 has taken a right fork
+[0;32m2405 philo 29 is eating
+[0;32m2405 philo 30 is sleeping
+[0;32m2405 philo 31 has taken a left fork
+[0;32m2406 philo 33 is thinking
+[0;32m2406 philo 34 is sleeping
+[0;32m2406 philo 35 is thinking
+[0;32m2406 philo 35 has taken a left fork
+[0;32m2406 philo 32 is sleeping
+[0;32m2406 philo 31 has taken a right fork
+[0;32m2406 philo 31 is eating
+[0;32m2406 philo 33 has taken a left fork
+[0;32m2406 philo 33 has taken a right fork
+[0;32m2406 philo 33 is eating
+[0;32m2406 philo 36 is sleeping
+[0;32m2406 philo 35 has taken a right fork
+[0;32m2406 philo 35 is eating
+[0;32m2406 philo 37 is thinking
+[0;32m2406 philo 37 has taken a left fork
+[0;32m2406 philo 38 is sleeping
+[0;32m2406 philo 37 has taken a right fork
+[0;32m2406 philo 37 is eating
+[0;32m2406 philo 39 is thinking
+[0;32m2406 philo 39 has taken a left fork
+[0;32m2407 philo 41 is thinking
+[0;32m2407 philo 40 is sleeping
+[0;32m2407 philo 39 has taken a right fork
+[0;32m2407 philo 39 is eating
+[0;32m2407 philo 41 has taken a left fork
+[0;32m2407 philo 42 is sleeping
+[0;32m2407 philo 41 has taken a right fork
+[0;32m2407 philo 41 is eating
+[0;32m2407 philo 43 is thinking
+[0;32m2407 philo 43 has taken a left fork
+[0;32m2407 philo 44 is sleeping
+[0;32m2407 philo 45 is thinking
+[0;32m2407 philo 45 has taken a left fork
+[0;32m2407 philo 43 has taken a right fork
+[0;32m2407 philo 43 is eating
+[0;32m2407 philo 47 is thinking
+[0;32m2407 philo 46 is sleeping
+[0;32m2407 philo 45 has taken a right fork
+[0;32m2407 philo 45 is eating
+[0;32m2407 philo 47 has taken a left fork
+[0;32m2408 philo 48 is sleeping
+[0;32m2408 philo 47 has taken a right fork
+[0;32m2408 philo 47 is eating
+[0;32m2408 philo 49 is thinking
+[0;32m2408 philo 49 has taken a left fork
+[0;32m2408 philo 50 is sleeping
+[0;32m2408 philo 49 has taken a right fork
+[0;32m2408 philo 49 is eating
+[0;32m2408 philo 51 is thinking
+[0;32m2408 philo 51 has taken a left fork
+[0;32m2408 philo 52 is sleeping
+[0;32m2408 philo 51 has taken a right fork
+[0;32m2408 philo 51 is eating
+[0;32m2408 philo 53 is thinking
+[0;32m2408 philo 53 has taken a left fork
+[0;32m2408 philo 54 is sleeping
+[0;32m2408 philo 53 has taken a right fork
+[0;32m2408 philo 53 is eating
+[0;32m2409 philo 55 is thinking
+[0;32m2409 philo 55 has taken a left fork
+[0;32m2409 philo 57 is thinking
+[0;32m2409 philo 56 is sleeping
+[0;32m2409 philo 55 has taken a right fork
+[0;32m2409 philo 55 is eating
+[0;32m2409 philo 57 has taken a left fork
+[0;32m2409 philo 58 is sleeping
+[0;32m2409 philo 57 has taken a right fork
+[0;32m2409 philo 57 is eating
+[0;32m2409 philo 59 is thinking
+[0;32m2409 philo 59 has taken a left fork
+[0;32m2409 philo 61 is thinking
+[0;32m2409 philo 60 is sleeping
+[0;32m2409 philo 59 has taken a right fork
+[0;32m2409 philo 59 is eating
+[0;32m2409 philo 61 has taken a left fork
+[0;32m2410 philo 63 is thinking
+[0;32m2410 philo 62 is sleeping
+[0;32m2410 philo 63 has taken a left fork
+[0;32m2410 philo 61 has taken a right fork
+[0;32m2410 philo 61 is eating
+[0;32m2410 philo 65 is thinking
+[0;32m2410 philo 64 is sleeping
+[0;32m2410 philo 63 has taken a right fork
+[0;32m2410 philo 63 is eating
+[0;32m2410 philo 65 has taken a left fork
+[0;32m2411 philo 66 is sleeping
+[0;32m2411 philo 65 has taken a right fork
+[0;32m2411 philo 65 is eating
+[0;32m2411 philo 69 is thinking
+[0;32m2411 philo 67 is thinking
+[0;32m2411 philo 67 has taken a left fork
+[0;32m2411 philo 68 is sleeping
+[0;32m2411 philo 69 has taken a left fork
+[0;32m2411 philo 67 has taken a right fork
+[0;32m2411 philo 67 is eating
+[0;32m2411 philo 71 is thinking
+[0;32m2411 philo 69 has taken a right fork
+[0;32m2411 philo 69 is eating
+[0;32m2411 philo 71 has taken a left fork
+[0;32m2411 philo 70 is sleeping
+[0;32m2411 philo 73 is thinking
+[0;32m2411 philo 72 is sleeping
+[0;32m2411 philo 71 has taken a right fork
+[0;32m2411 philo 71 is eating
+[0;32m2411 philo 73 has taken a left fork
+[0;32m2411 philo 75 is thinking
+[0;32m2411 philo 74 is sleeping
+[0;32m2411 philo 73 has taken a right fork
+[0;32m2411 philo 73 is eating
+[0;32m2412 philo 75 has taken a left fork
+[0;32m2412 philo 76 is sleeping
+[0;32m2412 philo 75 has taken a right fork
+[0;32m2412 philo 75 is eating
+[0;32m2412 philo 77 is thinking
+[0;32m2412 philo 77 has taken a left fork
+[0;32m2412 philo 79 is thinking
+[0;32m2412 philo 78 is sleeping
+[0;32m2412 philo 77 has taken a right fork
+[0;32m2412 philo 77 is eating
+[0;32m2412 philo 79 has taken a left fork
+[0;32m2413 philo 81 is thinking
+[0;32m2413 philo 80 is sleeping
+[0;32m2413 philo 79 has taken a right fork
+[0;32m2413 philo 79 is eating
+[0;32m2413 philo 81 has taken a left fork
+[0;32m2413 philo 83 is thinking
+[0;32m2413 philo 82 is sleeping
+[0;32m2413 philo 81 has taken a right fork
+[0;32m2413 philo 81 is eating
+[0;32m2413 philo 83 has taken a left fork
+[0;32m2413 philo 84 is sleeping
+[0;32m2413 philo 83 has taken a right fork
+[0;32m2413 philo 83 is eating
+[0;32m2413 philo 85 is thinking
+[0;32m2413 philo 85 has taken a left fork
+[0;32m2413 philo 87 is thinking
+[0;32m2413 philo 86 is sleeping
+[0;32m2413 philo 85 has taken a right fork
+[0;32m2413 philo 85 is eating
+[0;32m2413 philo 87 has taken a left fork
+[0;32m2414 philo 89 is thinking
+[0;32m2414 philo 88 is sleeping
+[0;32m2414 philo 87 has taken a right fork
+[0;32m2414 philo 87 is eating
+[0;32m2414 philo 89 has taken a left fork
+[0;32m2414 philo 9 is thinking
+[0;32m2414 philo 10 is sleeping
+[0;32m2414 philo 11 has taken a left fork
+[0;32m2414 philo 11 has taken a right fork
+[0;32m2414 philo 11 is eating
+[0;32m2414 philo 7 is thinking
+[0;32m2414 philo 8 is sleeping
+[0;32m2414 philo 9 has taken a left fork
+[0;32m2414 philo 9 has taken a right fork
+[0;32m2414 philo 9 is eating
+[0;32m2414 philo 6 is sleeping
+[0;32m2414 philo 7 has taken a left fork
+[0;32m2414 philo 7 has taken a right fork
+[0;32m2414 philo 7 is eating
+[0;32m2414 philo 93 is thinking
+[0;32m2414 philo 5 is thinking
+[0;32m2414 philo 96 is sleeping
+[0;32m2414 philo 90 is sleeping
+[0;32m2414 philo 89 has taken a right fork
+[0;32m2414 philo 89 is eating
+[0;32m2414 philo 95 is thinking
+[0;32m2414 philo 91 is thinking
+[0;32m2414 philo 91 has taken a left fork
+[0;32m2414 philo 98 is sleeping
+[0;32m2414 philo 91 has taken a right fork
+[0;32m2414 philo 91 is eating
+[0;32m2414 philo 97 is thinking
+[0;32m2414 philo 97 has taken a left fork
+[0;32m2414 philo 97 has taken a right fork
+[0;32m2414 philo 97 is eating
+[0;32m2414 philo 92 is sleeping
+[0;32m2414 philo 93 has taken a left fork
+[0;32m2414 philo 94 is sleeping
+[0;32m2414 philo 93 has taken a right fork
+[0;32m2414 philo 93 is eating
+[0;32m2414 philo 95 has taken a left fork
+[0;32m2414 philo 95 has taken a right fork
+[0;32m2414 philo 95 is eating
+[0;32m2414 philo 99 is thinking
+[0;32m2414 philo 99 has taken a left fork
+[0;32m2414 philo 1 is thinking
+[0;32m2414 philo 3 is thinking
+[0;32m2414 philo 4 is sleeping
+[0;32m2414 philo 5 has taken a left fork
+[0;32m2414 philo 5 has taken a right fork
+[0;32m2414 philo 5 is eating
+[0;32m2414 philo 2 is sleeping
+[0;32m2414 philo 3 has taken a left fork
+[0;32m2414 philo 3 has taken a right fork
+[0;32m2414 philo 3 is eating
+[0;32m2414 philo 100 is sleeping
+[0;32m2414 philo 1 has taken a left fork
+[0;32m2414 philo 1 has taken a right fork
+[0;32m2414 philo 1 is eating
+[0;32m2414 philo 99 has taken a right fork
+[0;32m2414 philo 99 is eating
+[0;32m2603 philo 12 is thinking
+[0;32m2603 philo 13 is sleeping
+[0;32m2603 philo 14 is thinking
+[0;32m2603 philo 14 has taken a left fork
+[0;32m2604 philo 16 is thinking
+[0;32m2604 philo 15 is sleeping
+[0;32m2604 philo 16 has taken a left fork
+[0;32m2604 philo 14 has taken a right fork
+[0;32m2604 philo 14 is eating
+[0;32m2604 philo 17 is sleeping
+[0;32m2604 philo 16 has taken a right fork
+[0;32m2604 philo 16 is eating
+[0;32m2604 philo 18 is thinking
+[0;32m2604 philo 18 has taken a left fork
+[0;32m2604 philo 20 is thinking
+[0;32m2604 philo 19 is sleeping
+[0;32m2604 philo 18 has taken a right fork
+[0;32m2604 philo 18 is eating
+[0;32m2604 philo 20 has taken a left fork
+[0;32m2604 philo 22 is thinking
+[0;32m2604 philo 21 is sleeping
+[0;32m2604 philo 20 has taken a right fork
+[0;32m2604 philo 20 is eating
+[0;32m2604 philo 22 has taken a left fork
+[0;32m2605 philo 23 is sleeping
+[0;32m2605 philo 22 has taken a right fork
+[0;32m2605 philo 22 is eating
+[0;32m2605 philo 24 is thinking
+[0;32m2605 philo 24 has taken a left fork
+[0;32m2605 philo 25 is sleeping
+[0;32m2605 philo 24 has taken a right fork
+[0;32m2605 philo 24 is eating
+[0;32m2605 philo 26 is thinking
+[0;32m2605 philo 26 has taken a left fork
+[0;32m2605 philo 28 is thinking
+[0;32m2605 philo 27 is sleeping
+[0;32m2605 philo 26 has taken a right fork
+[0;32m2605 philo 26 is eating
+[0;32m2605 philo 28 has taken a left fork
+[0;32m2605 philo 29 is sleeping
+[0;32m2605 philo 28 has taken a right fork
+[0;32m2605 philo 28 is eating
+[0;32m2606 philo 30 is thinking
+[0;32m2606 philo 30 has taken a left fork
+[0;32m2606 philo 34 is thinking
+[0;32m2606 philo 32 is thinking
+[0;32m2606 philo 32 has taken a left fork
+[0;32m2606 philo 30 has taken a right fork
+[0;32m2606 philo 30 is eating
+[0;32m2606 philo 31 is sleeping
+[0;32m2606 philo 33 is sleeping
+[0;32m2606 philo 32 has taken a right fork
+[0;32m2606 philo 32 is eating
+[0;32m2606 philo 34 has taken a left fork
+[0;32m2606 philo 35 is sleeping
+[0;32m2606 philo 34 has taken a right fork
+[0;32m2606 philo 34 is eating
+[0;32m2606 philo 36 is thinking
+[0;32m2606 philo 36 has taken a left fork
+[0;32m2606 philo 38 is thinking
+[0;32m2606 philo 37 is sleeping
+[0;32m2606 philo 36 has taken a right fork
+[0;32m2606 philo 36 is eating
+[0;32m2606 philo 38 has taken a left fork
+[0;32m2607 philo 40 is thinking
+[0;32m2607 philo 42 is thinking
+[0;32m2607 philo 42 has taken a left fork
+[0;32m2607 philo 41 is sleeping
+[0;32m2607 philo 38 has taken a right fork
+[0;32m2607 philo 40 has taken a left fork
+[0;32m2607 philo 40 has taken a right fork
+[0;32m2607 philo 40 is eating
+[0;32m2607 philo 38 is eating
+[0;32m2607 philo 39 is sleeping
+[0;32m2607 philo 43 is sleeping
+[0;32m2607 philo 42 has taken a right fork
+[0;32m2607 philo 42 is eating
+[0;32m2607 philo 44 is thinking
+[0;32m2607 philo 44 has taken a left fork
+[0;32m2607 philo 45 is sleeping
+[0;32m2607 philo 44 has taken a right fork
+[0;32m2607 philo 44 is eating
+[0;32m2608 philo 46 is thinking
+[0;32m2608 philo 46 has taken a left fork
+[0;32m2608 philo 47 is sleeping
+[0;32m2608 philo 46 has taken a right fork
+[0;32m2608 philo 46 is eating
+[0;32m2608 philo 48 is thinking
+[0;32m2608 philo 48 has taken a left fork
+[0;32m2608 philo 49 is sleeping
+[0;32m2608 philo 48 has taken a right fork
+[0;32m2608 philo 48 is eating
+[0;32m2608 philo 52 is thinking
+[0;32m2608 philo 51 is sleeping
+[0;32m2608 philo 52 has taken a left fork
+[0;32m2608 philo 50 is thinking
+[0;32m2608 philo 50 has taken a left fork
+[0;32m2608 philo 50 has taken a right fork
+[0;32m2608 philo 50 is eating
+[0;32m2608 philo 54 is thinking
+[0;32m2609 philo 53 is sleeping
+[0;32m2609 philo 54 has taken a left fork
+[0;32m2609 philo 52 has taken a right fork
+[0;32m2609 philo 52 is eating
+[0;32m2609 philo 55 is sleeping
+[0;32m2609 philo 54 has taken a right fork
+[0;32m2609 philo 54 is eating
+[0;32m2609 philo 56 is thinking
+[0;32m2609 philo 56 has taken a left fork
+[0;32m2609 philo 58 is thinking
+[0;32m2609 philo 57 is sleeping
+[0;32m2609 philo 56 has taken a right fork
+[0;32m2609 philo 56 is eating
+[0;32m2609 philo 58 has taken a left fork
+[0;32m2609 philo 60 is thinking
+[0;32m2609 philo 59 is sleeping
+[0;32m2609 philo 58 has taken a right fork
+[0;32m2609 philo 58 is eating
+[0;32m2609 philo 60 has taken a left fork
+[0;32m2610 philo 62 is thinking
+[0;32m2610 philo 60 has taken a right fork
+[0;32m2610 philo 60 is eating
+[0;32m2610 philo 62 has taken a left fork
+[0;32m2610 philo 61 is sleeping
+[0;32m2610 philo 64 is thinking
+[0;32m2611 philo 63 is sleeping
+[0;32m2611 philo 62 has taken a right fork
+[0;32m2611 philo 62 is eating
+[0;32m2611 philo 64 has taken a left fork
+[0;32m2611 philo 64 has taken a right fork
+[0;32m2611 philo 64 is eating
+[0;32m2611 philo 65 is sleeping
+[0;32m2611 philo 66 is thinking
+[0;32m2611 philo 66 has taken a left fork
+[0;32m2611 philo 68 is thinking
+[0;32m2611 philo 66 has taken a right fork
+[0;32m2611 philo 66 is eating
+[0;32m2611 philo 67 is sleeping
+[0;32m2611 philo 68 has taken a left fork
+[0;32m2611 philo 70 is thinking
+[0;32m2611 philo 70 has taken a left fork
+[0;32m2611 philo 69 is sleeping
+[0;32m2611 philo 68 has taken a right fork
+[0;32m2611 philo 68 is eating
+[0;32m2611 philo 72 is thinking
+[0;32m2611 philo 71 is sleeping
+[0;32m2611 philo 72 has taken a left fork
+[0;32m2611 philo 70 has taken a right fork
+[0;32m2611 philo 70 is eating
+[0;32m2612 philo 73 is sleeping
+[0;32m2612 philo 74 is thinking
+[0;32m2612 philo 74 has taken a left fork
+[0;32m2612 philo 72 has taken a right fork
+[0;32m2612 philo 72 is eating
+[0;32m2612 philo 76 is thinking
+[0;32m2612 philo 75 is sleeping
+[0;32m2612 philo 74 has taken a right fork
+[0;32m2612 philo 74 is eating
+[0;32m2612 philo 76 has taken a left fork
+[0;32m2612 philo 77 is sleeping
+[0;32m2612 philo 76 has taken a right fork
+[0;32m2612 philo 76 is eating
+[0;32m2612 philo 78 is thinking
+[0;32m2612 philo 78 has taken a left fork
+[0;32m2613 philo 79 is sleeping
+[0;32m2613 philo 78 has taken a right fork
+[0;32m2613 philo 78 is eating
+[0;32m2613 philo 80 is thinking
+[0;32m2613 philo 80 has taken a left fork
+[0;32m2613 philo 82 is thinking
+[0;32m2613 philo 81 is sleeping
+[0;32m2613 philo 80 has taken a right fork
+[0;32m2613 philo 80 is eating
+[0;32m2613 philo 82 has taken a left fork
+[0;32m2613 philo 83 is sleeping
+[0;32m2613 philo 82 has taken a right fork
+[0;32m2613 philo 82 is eating
+[0;32m2613 philo 84 is thinking
+[0;32m2613 philo 84 has taken a left fork
+[0;32m2613 philo 86 is thinking
+[0;32m2614 philo 85 is sleeping
+[0;32m2614 philo 86 has taken a left fork
+[0;32m2614 philo 84 has taken a right fork
+[0;32m2614 philo 84 is eating
+[0;32m2614 philo 88 is thinking
+[0;32m2614 philo 86 has taken a right fork
+[0;32m2614 philo 88 has taken a left fork
+[0;32m2614 philo 86 is eating
+[0;32m2614 philo 87 is sleeping
+[0;32m2614 philo 10 is thinking
+[0;32m2614 philo 11 is sleeping
+[0;32m2614 philo 12 has taken a left fork
+[0;32m2614 philo 12 has taken a right fork
+[0;32m2614 philo 12 is eating
+[0;32m2614 philo 9 is sleeping
+[0;32m2614 philo 10 has taken a left fork
+[0;32m2614 philo 10 has taken a right fork
+[0;32m2614 philo 10 is eating
+[0;32m2614 philo 6 is thinking
+[0;32m2614 philo 8 is thinking
+[0;32m2614 philo 90 is thinking
+[0;32m2614 philo 96 is thinking
+[0;32m2614 philo 7 is sleeping
+[0;32m2614 philo 8 has taken a left fork
+[0;32m2614 philo 8 has taken a right fork
+[0;32m2614 philo 8 is eating
+[0;32m2614 philo 97 is sleeping
+[0;32m2614 philo 91 is sleeping
+[0;32m2614 philo 95 is sleeping
+[0;32m2614 philo 89 is sleeping
+[0;32m2614 philo 98 is thinking
+[0;32m2614 philo 93 is sleeping
+[0;32m2614 philo 98 has taken a left fork
+[0;32m2614 philo 88 has taken a right fork
+[0;32m2614 philo 88 is eating
+[0;32m2614 philo 90 has taken a left fork
+[0;32m2614 philo 90 has taken a right fork
+[0;32m2614 philo 90 is eating
+[0;32m2614 philo 94 is thinking
+[0;32m2614 philo 94 has taken a left fork
+[0;32m2614 philo 94 has taken a right fork
+[0;32m2614 philo 94 is eating
+[0;32m2614 philo 96 has taken a left fork
+[0;32m2614 philo 96 has taken a right fork
+[0;32m2614 philo 96 is eating
+[0;32m2614 philo 92 is thinking
+[0;32m2614 philo 92 has taken a left fork
+[0;32m2614 philo 92 has taken a right fork
+[0;32m2614 philo 92 is eating
+[0;32m2614 philo 4 is thinking
+[0;32m2614 philo 5 is sleeping
+[0;32m2614 philo 6 has taken a left fork
+[0;32m2614 philo 6 has taken a right fork
+[0;32m2614 philo 6 is eating
+[0;32m2614 philo 3 is sleeping
+[0;32m2614 philo 4 has taken a left fork
+[0;32m2614 philo 4 has taken a right fork
+[0;32m2614 philo 4 is eating
+[0;32m2614 philo 1 is sleeping
+[0;32m2614 philo 2 is thinking
+[0;32m2614 philo 2 has taken a left fork
+[0;32m2614 philo 2 has taken a right fork
+[0;32m2614 philo 2 is eating
+[0;32m2614 philo 100 is thinking
+[0;32m2614 philo 99 is sleeping
+[0;32m2614 philo 100 has taken a left fork
+[0;32m2614 philo 100 has taken a right fork
+[0;32m2614 philo 100 is eating
+[0;32m2614 philo 98 has taken a right fork
+[0;32m2614 philo 98 is eating
+[0;32m2803 philo 13 is thinking
+[0;32m2804 philo 15 is thinking
+[0;32m2804 philo 15 has taken a left fork
+[0;32m2804 philo 14 is sleeping
+[0;32m2804 philo 17 is thinking
+[0;32m2804 philo 16 is sleeping
+[0;32m2804 philo 15 has taken a right fork
+[0;32m2804 philo 15 is eating
+[0;32m2804 philo 17 has taken a left fork
+[0;32m2804 philo 18 is sleeping
+[0;32m2804 philo 17 has taken a right fork
+[0;32m2804 philo 17 is eating
+[0;32m2804 philo 19 is thinking
+[0;32m2804 philo 19 has taken a left fork
+[0;32m2804 philo 21 is thinking
+[0;32m2805 philo 20 is sleeping
+[0;32m2805 philo 19 has taken a right fork
+[0;32m2805 philo 19 is eating
+[0;32m2805 philo 21 has taken a left fork
+[0;32m2805 philo 22 is sleeping
+[0;32m2805 philo 21 has taken a right fork
+[0;32m2805 philo 21 is eating
+[0;32m2805 philo 23 is thinking
+[0;32m2805 philo 23 has taken a left fork
+[0;32m2805 philo 25 is thinking
+[0;32m2805 philo 24 is sleeping
+[0;32m2805 philo 23 has taken a right fork
+[0;32m2805 philo 23 is eating
+[0;32m2805 philo 25 has taken a left fork
+[0;32m2805 philo 26 is sleeping
+[0;32m2805 philo 25 has taken a right fork
+[0;32m2805 philo 25 is eating
+[0;32m2805 philo 27 is thinking
+[0;32m2805 philo 27 has taken a left fork
+[0;32m2806 philo 28 is sleeping
+[0;32m2806 philo 29 is thinking
+[0;32m2806 philo 29 has taken a left fork
+[0;32m2806 philo 27 has taken a right fork
+[0;32m2806 philo 27 is eating
+[0;32m2806 philo 31 is thinking
+[0;32m2806 philo 30 is sleeping
+[0;32m2806 philo 29 has taken a right fork
+[0;32m2806 philo 29 is eating
+[0;32m2806 philo 31 has taken a left fork
+[0;32m2806 philo 31 has taken a right fork
+[0;32m2806 philo 31 is eating
+[0;32m2806 philo 32 is sleeping
+[0;32m2806 philo 33 is thinking
+[0;32m2806 philo 33 has taken a left fork
+[0;32m2806 philo 35 is thinking
+[0;32m2806 philo 34 is sleeping
+[0;32m2806 philo 33 has taken a right fork
+[0;32m2806 philo 33 is eating
+[0;32m2806 philo 35 has taken a left fork
+[0;32m2806 philo 36 is sleeping
+[0;32m2806 philo 35 has taken a right fork
+[0;32m2806 philo 35 is eating
+[0;32m2806 philo 37 is thinking
+[0;32m2806 philo 37 has taken a left fork
+[0;32m2807 philo 39 is thinking
+[0;32m2807 philo 40 is sleeping
+[0;32m2807 philo 41 is thinking
+[0;32m2807 philo 41 has taken a left fork
+[0;32m2807 philo 38 is sleeping
+[0;32m2807 philo 37 has taken a right fork
+[0;32m2807 philo 37 is eating
+[0;32m2807 philo 39 has taken a left fork
+[0;32m2807 philo 39 has taken a right fork
+[0;32m2807 philo 39 is eating
+[0;32m2807 philo 42 is sleeping
+[0;32m2807 philo 41 has taken a right fork
+[0;32m2807 philo 41 is eating
+[0;32m2807 philo 43 is thinking
+[0;32m2807 philo 43 has taken a left fork
+[0;32m2807 philo 45 is thinking
+[0;32m2807 philo 44 is sleeping
+[0;32m2807 philo 43 has taken a right fork
+[0;32m2807 philo 43 is eating
+[0;32m2807 philo 45 has taken a left fork
+[0;32m2808 philo 47 is thinking
+[0;32m2808 philo 46 is sleeping
+[0;32m2808 philo 47 has taken a left fork
+[0;32m2808 philo 45 has taken a right fork
+[0;32m2808 philo 45 is eating
+[0;32m2808 philo 48 is sleeping
+[0;32m2808 philo 47 has taken a right fork
+[0;32m2808 philo 47 is eating
+[0;32m2808 philo 49 is thinking
+[0;32m2808 philo 49 has taken a left fork
+[0;32m2808 philo 51 is thinking
+[0;32m2808 philo 50 is sleeping
+[0;32m2808 philo 49 has taken a right fork
+[0;32m2808 philo 49 is eating
+[0;32m2808 philo 51 has taken a left fork
+[0;32m2809 philo 53 is thinking
+[0;32m2809 philo 52 is sleeping
+[0;32m2809 philo 51 has taken a right fork
+[0;32m2809 philo 51 is eating
+[0;32m2809 philo 53 has taken a left fork
+[0;32m2809 philo 54 is sleeping
+[0;32m2809 philo 53 has taken a right fork
+[0;32m2809 philo 53 is eating
+[0;32m2809 philo 55 is thinking
+[0;32m2809 philo 55 has taken a left fork
+[0;32m2809 philo 57 is thinking
+[0;32m2809 philo 55 has taken a right fork
+[0;32m2809 philo 55 is eating
+[0;32m2809 philo 56 is sleeping
+[0;32m2809 philo 57 has taken a left fork
+[0;32m2809 philo 58 is sleeping
+[0;32m2809 philo 57 has taken a right fork
+[0;32m2809 philo 57 is eating
+[0;32m2809 philo 59 is thinking
+[0;32m2809 philo 59 has taken a left fork
+[0;32m2810 philo 61 is thinking
+[0;32m2810 philo 60 is sleeping
+[0;32m2810 philo 59 has taken a right fork
+[0;32m2810 philo 59 is eating
+[0;32m2810 philo 61 has taken a left fork
+[0;32m2811 philo 62 is sleeping
+[0;32m2811 philo 61 has taken a right fork
+[0;32m2811 philo 61 is eating
+[0;32m2811 philo 63 is thinking
+[0;32m2811 philo 63 has taken a left fork
+[0;32m2811 philo 64 is sleeping
+[0;32m2811 philo 63 has taken a right fork
+[0;32m2811 philo 63 is eating
+[0;32m2811 philo 65 is thinking
+[0;32m2811 philo 65 has taken a left fork
+[0;32m2811 philo 66 is sleeping
+[0;32m2811 philo 65 has taken a right fork
+[0;32m2811 philo 65 is eating
+[0;32m2811 philo 67 is thinking
+[0;32m2811 philo 67 has taken a left fork
+[0;32m2811 philo 68 is sleeping
+[0;32m2811 philo 67 has taken a right fork
+[0;32m2811 philo 67 is eating
+[0;32m2811 philo 69 is thinking
+[0;32m2811 philo 69 has taken a left fork
+[0;32m2811 philo 71 is thinking
+[0;32m2812 philo 73 is thinking
+[0;32m2812 philo 70 is sleeping
+[0;32m2812 philo 71 has taken a left fork
+[0;32m2812 philo 69 has taken a right fork
+[0;32m2812 philo 69 is eating
+[0;32m2812 philo 71 has taken a right fork
+[0;32m2812 philo 71 is eating
+[0;32m2812 philo 72 is sleeping
+[0;32m2812 philo 73 has taken a left fork
+[0;32m2812 philo 75 is thinking
+[0;32m2812 philo 74 is sleeping
+[0;32m2812 philo 73 has taken a right fork
+[0;32m2812 philo 73 is eating
+[0;32m2812 philo 75 has taken a left fork
+[0;32m2812 philo 77 is thinking
+[0;32m2812 philo 76 is sleeping
+[0;32m2812 philo 75 has taken a right fork
+[0;32m2812 philo 75 is eating
+[0;32m2812 philo 77 has taken a left fork
+[0;32m2813 philo 79 is thinking
+[0;32m2813 philo 78 is sleeping
+[0;32m2813 philo 77 has taken a right fork
+[0;32m2813 philo 77 is eating
+[0;32m2813 philo 79 has taken a left fork
+[0;32m2813 philo 81 is thinking
+[0;32m2813 philo 80 is sleeping
+[0;32m2813 philo 81 has taken a left fork
+[0;32m2813 philo 79 has taken a right fork
+[0;32m2813 philo 79 is eating
+[0;32m2813 philo 83 is thinking
+[0;32m2813 philo 82 is sleeping
+[0;32m2813 philo 83 has taken a left fork
+[0;32m2813 philo 81 has taken a right fork
+[0;32m2813 philo 81 is eating
+[0;32m2814 philo 85 is thinking
+[0;32m2814 philo 84 is sleeping
+[0;32m2814 philo 83 has taken a right fork
+[0;32m2814 philo 83 is eating
+[0;32m2814 philo 85 has taken a left fork
+[0;32m2814 philo 87 is thinking
+[0;32m2814 philo 85 has taken a right fork
+[0;32m2814 philo 85 is eating
+[0;32m2814 philo 86 is sleeping
+[0;32m2814 philo 87 has taken a left fork
+[0;32m2814 philo 11 is thinking
+[0;32m2814 philo 12 is sleeping
+[0;32m2814 philo 13 has taken a left fork
+[0;32m2814 philo 13 has taken a right fork
+[0;32m2814 philo 13 is eating
+[0;32m2814 philo 9 is thinking
+[0;32m2814 philo 10 is sleeping
+[0;32m2814 philo 11 has taken a left fork
+[0;32m2814 philo 11 has taken a right fork
+[0;32m2814 philo 11 is eating
+[0;32m2814 philo 7 is thinking
+[0;32m2814 philo 8 is sleeping
+[0;32m2814 philo 91 is thinking
+[0;32m2814 philo 9 has taken a left fork
+[0;32m2814 philo 9 has taken a right fork
+[0;32m2814 philo 9 is eating
+[0;32m2814 philo 95 is thinking
+[0;32m2814 philo 88 is sleeping
+[0;32m2814 philo 87 has taken a right fork
+[0;32m2814 philo 87 is eating
+[0;32m2814 philo 96 is sleeping
+[0;32m2814 philo 97 is thinking
+[0;32m2814 philo 97 has taken a left fork
+[0;32m2814 philo 92 is sleeping
+[0;32m2814 philo 89 is thinking
+[0;32m2814 philo 89 has taken a left fork
+[0;32m2814 philo 93 is thinking
+[0;32m2814 philo 93 has taken a left fork
+[0;32m2814 philo 94 is sleeping
+[0;32m2814 philo 95 has taken a left fork
+[0;32m2814 philo 95 has taken a right fork
+[0;32m2814 philo 95 is eating
+[0;32m2814 philo 90 is sleeping
+[0;32m2814 philo 91 has taken a left fork
+[0;32m2814 philo 91 has taken a right fork
+[0;32m2814 philo 91 is eating
+[0;32m2814 philo 93 has taken a right fork
+[0;32m2814 philo 93 is eating
+[0;32m2814 philo 5 is thinking
+[0;32m2814 philo 6 is sleeping
+[0;32m2814 philo 7 has taken a left fork
+[0;32m2814 philo 7 has taken a right fork
+[0;32m2814 philo 7 is eating
+[0;32m2814 philo 89 has taken a right fork
+[0;32m2814 philo 89 is eating
+[0;32m2814 philo 3 is thinking
+[0;32m2814 philo 5 has taken a left fork
+[0;32m2814 philo 5 has taken a right fork
+[0;32m2814 philo 5 is eating
+[0;32m2814 philo 4 is sleeping
+[0;32m2814 philo 1 is thinking
+[0;32m2814 philo 99 is thinking
+[0;32m2814 philo 2 is sleeping
+[0;32m2814 philo 100 is sleeping
+[0;32m2814 philo 3 has taken a left fork
+[0;32m2814 philo 3 has taken a right fork
+[0;32m2814 philo 3 is eating
+[0;32m2814 philo 

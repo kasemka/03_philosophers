@@ -1,12 +1,5 @@
 #include "philo.h"
 
-void	*print_name(void *i)
-{
-	int index = *(int *)i;
-	printf("hello philo %d\n", index);
-	return (NULL);
-}
-
 int	init_philos(t_hold *hold)
 {
 	int		i;
@@ -21,10 +14,8 @@ int	init_philos(t_hold *hold)
 		hold->philos[i].fork_left = &hold->forks[i];
 		hold->philos[i].fork_right = &hold->forks[i + 1];
 		hold->philos[i].msg = &hold->msg;
-		hold->philos[i].died = &hold->died;
 		hold->philos[i].hold = hold;
 		hold->philos[i].eat_num = 0;
-		// hold->philos[i].last_eat = hold->start_time;
 		i++;
 	}
 	hold->philos[hold->philos_n - 1].fork_right = &hold->forks[0];
