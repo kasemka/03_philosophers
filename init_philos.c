@@ -7,7 +7,10 @@ int	init_philos(t_hold *hold)
 	i = 0;
 	hold->philos = (t_philo *)malloc(sizeof(t_philo) * hold->philos_n);
 	if (hold->philos == NULL)
+	{
+		clear_mutex_forks(hold, hold->forks_n);
 		return (malloc_fail());
+	}
 	while (i < hold->philos_n)
 	{
 		hold->philos[i].name = i + 1;

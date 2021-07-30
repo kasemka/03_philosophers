@@ -28,8 +28,6 @@ void	*living(void *a_philo)
 	t_philo		*philo;
 
 	philo = (t_philo *)a_philo;
-	if (philo->name % 2 == 0)
-		ft_usleep(philo->hold->time_eat);
 	while (1)
 	{
 		pthread_mutex_lock(philo->fork_left);
@@ -44,11 +42,10 @@ void	*living(void *a_philo)
 		msg(philo, 's');
 		ft_usleep(philo->hold->time_sleep);
 		msg(philo, 't');
+		ft_usleep(50);
 	}
 	return (0);
 }
-
-
 
 void	*catch_dead(void *a_hold)
 {
@@ -61,35 +58,43 @@ void	*catch_dead(void *a_hold)
 	{
 		if (cur_time_mcs() - hold->philos[i].last_eat > hold->time_die)
 		{
-			hold->is_dead = 1;
 			msg(&hold->philos[i], 'd');
+			hold->is_dead = 1;
 			break ;
 		}
 		i++;
 		if (i == hold->philos_n)
 			i = 0;
-		ft_usleep(100);
+		ft_usleep(110);
 	}
 	return (0);
 }
 
-int	start_process(t_hold *hold)
+int	start_process(t_hold *hd)
 {
 	int	i;
 
-	i = 0;
-	pthread_mutex_init(&hold->msg, NULL);
-	start_time_record(hold);
-	
-	while (i < hold->philos_n)
+	i = -1;
+	if (pthread_mutex_init(&hd->msg, NULL) != 0)
 	{
-		pthread_create(&hold->philos[i].t, NULL, living, &hold->philos[i]);	
-		i++;
-		ft_usleep(50);
+		end_threads(hd, 1);
+		return (1);
 	}
-	pthread_create(&hold->starving, NULL, catch_dead, hold);
-	i = 1;
-
+	start_time_record(hd);
+	while (++i < hd->philos_n)
+	{
+		if (pthread_create(&hd->philos[i].t, NULL, living, &hd->philos[i]) != 0)
+		{
+			hd->philos_n = i;
+			end_threads(hd, 2);
+			return (1);
+		}
+		ft_usleep(100);
+	}
+	if (pthread_create(&hd->starving, NULL, catch_dead, hd) != 0)
+	{
+		end_threads(hd, 2);
+		return (1);
+	}
 	return (0);
 }
-

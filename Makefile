@@ -9,7 +9,8 @@ init_struct.c\
 init_philos.c\
 init_forks.c\
 time_correct.c\
-end_all.c
+end_all.c\
+ft_putnbr_fd.c
 
 
 HEADER = philo.h

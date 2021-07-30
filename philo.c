@@ -1,6 +1,5 @@
 #include "philo.h"
 
-
 int	main(int argc, char **argv)
 {
 	t_hold		hold;
@@ -15,6 +14,6 @@ int	main(int argc, char **argv)
 		return (1);
 	if (start_process(&hold) == 1)
 		return (1);
-	end_threads(&hold);
+	end_threads(&hold, 0);
 	return (0);
 }
