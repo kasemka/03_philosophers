@@ -1,12 +1,15 @@
 NAME = philo
 
 SRC = philo.c\
+living.c\
+msg_lock.c\
 ft_atoi.c\
 malloc_fail.c\
 init_struct.c\
 init_philos.c\
 init_forks.c\
-additional_funcs.c
+time_correct.c\
+end_all.c
 
 
 HEADER = philo.h
