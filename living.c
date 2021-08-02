@@ -19,16 +19,16 @@ void	eating(t_philo *philo)
 	msg(philo, 'e');
 	philo->eat_num++;
 	if (philo->eat_num == philo->hold->eat_num)
-		philo->hold->philos_num_eat_min++;
+		philo->hold->min_eat++;
 	ft_usleep(philo->hold->time_eat);
 }
 
-void	*living(void *a_philo)
+void	living(void *a_philo)
 {
 	t_philo		*philo;
 
 	philo = (t_philo *)a_philo;
-	while (1)
+	while (philo->hold->is_dead == 0)
 	{
 		pthread_mutex_lock(philo->fork_left);
 		msg(philo, 'l');
@@ -42,59 +42,54 @@ void	*living(void *a_philo)
 		msg(philo, 's');
 		ft_usleep(philo->hold->time_sleep);
 		msg(philo, 't');
-		ft_usleep(50);
 	}
-	return (0);
 }
 
-void	*catch_dead(void *a_hold)
+void	catch_dead(void *a_hold)
 {
-	t_hold		*hold;
-	int			i;
+	t_hold				*hold;
+	int					i;
+	unsigned long long	time_diff;
 
 	i = 0;
 	hold = (t_hold *)a_hold;
-	while (i < hold->philos_n && hold->philos_num_eat_min != hold->philos_n)
+	while (i < hold->philos_n && hold->min_eat != hold->philos_n && \
+	hold->is_dead == 0)
 	{
-		if (cur_time_mcs() - hold->philos[i].last_eat > hold->time_die)
+		if (cur_time_mcs() - hold->philos[i].last_eat >= hold->time_die)
 		{
-			msg(&hold->philos[i], 'd');
 			hold->is_dead = 1;
+			pthread_mutex_lock(&hold->msg);
+			time_diff = (cur_time_mcs() - hold->start_time) / 1000;
+			printf("%llu philo %i died\n", time_diff, hold->philos[i].name);
 			break ;
 		}
 		i++;
 		if (i == hold->philos_n)
 			i = 0;
-		ft_usleep(110);
+		ft_usleep(100);
 	}
-	return (0);
 }
 
 int	start_process(t_hold *hd)
 {
 	int	i;
 
-	i = -1;
-	if (pthread_mutex_init(&hd->msg, NULL) != 0)
-	{
-		end_threads(hd, 1);
-		return (1);
-	}
+	i = 0;
 	start_time_record(hd);
-	while (++i < hd->philos_n)
+	while (i < hd->philos_n)
 	{
-		if (pthread_create(&hd->philos[i].t, NULL, living, &hd->philos[i]) != 0)
+		if (pthread_create(&hd->philos[i].t, NULL, (void *)living, \
+		&hd->philos[i]) != 0)
 		{
 			hd->philos_n = i;
-			end_threads(hd, 2);
-			return (1);
+			return (end_threads(hd, 2));
 		}
-		ft_usleep(100);
+		pthread_detach(hd->philos[i].t);
+		i++;
+		ft_usleep(10);
 	}
-	if (pthread_create(&hd->starving, NULL, catch_dead, hd) != 0)
-	{
-		end_threads(hd, 2);
-		return (1);
-	}
+	if (pthread_create(&hd->starving, NULL, (void *)catch_dead, hd) != 0)
+		return (end_threads(hd, 2));
 	return (0);
 }

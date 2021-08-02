@@ -3,6 +3,11 @@
 // time was converted from milliseconds to microsecond everywere
 int	init_struct(int argc, char **argv, t_hold *hold)
 {
+	if (pthread_mutex_init(&hold->msg, NULL) != 0)
+	{
+		end_threads(hold, 1);
+		return (1);
+	}
 	hold->philos_n = ft_atoi(argv[1]);
 	hold->time_die = ft_atoi(argv[2]) * 1000;
 	hold->time_eat = ft_atoi(argv[3]) * 1000;
@@ -18,6 +23,6 @@ int	init_struct(int argc, char **argv, t_hold *hold)
 		return (1);
 	hold->forks_n = hold->philos_n;
 	hold->is_dead = 0;
-	hold->philos_num_eat_min = 0;
+	hold->min_eat = 0;
 	return (0);
 }

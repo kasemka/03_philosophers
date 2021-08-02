@@ -11,12 +11,6 @@ int	end_threads(t_hold *hold, int flag)
 	{
 		if (flag == 0)
 			pthread_join(hold->starving, NULL);
-		while (i < hold->philos_n)
-		{
-			pthread_detach(hold->philos[i].t);
-			i++;
-		}
-		pthread_mutex_destroy(&hold->msg);
 	}
 	while (j < hold->forks_n)
 	{
@@ -25,5 +19,7 @@ int	end_threads(t_hold *hold, int flag)
 	}
 	free(hold->philos);
 	free(hold->forks);
+	if (flag != 0)
+		return (1);
 	return (0);
 }
