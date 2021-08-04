@@ -2,10 +2,8 @@
 
 int	end_threads(t_hold *hold, int flag)
 {
-	int	i;
 	int	j;
 
-	i = 0;
 	j = 0;
 	if (flag != 1)
 	{
