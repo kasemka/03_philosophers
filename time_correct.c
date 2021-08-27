@@ -10,11 +10,14 @@ unsigned long long	cur_time_mcs(void)
 }
 
 // usleep for goal_time - current_time in microseconds
-void	ft_usleep(unsigned long long time)
+void	ft_usleep(unsigned long long time, int stop_sim)
 {
 	unsigned long long	goal_time;
 
 	goal_time = cur_time_mcs() + time;
-	while (cur_time_mcs() < goal_time)
-		usleep(100);
+	if (stop_sim == 0)
+	{
+		while (cur_time_mcs() < goal_time)
+			usleep(100);
+	}
 }

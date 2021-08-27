@@ -1,23 +1,30 @@
 #include "philo.h"
 
-int	end_threads(t_hold *hold, int flag)
+int	end_threads(t_hold *hold)
 {
 	int	j;
 
 	j = 0;
-	if (flag != 1)
+	if (pthread_join(hold->starving, NULL) != 0)
+		return (pthread_join_fail());
+	while (j < hold->philos_n)
 	{
-		if (flag == 0)
-			pthread_join(hold->starving, NULL);
-	}
-	while (j < hold->forks_n)
-	{
-		pthread_mutex_destroy(&hold->forks[j]);
+		if (pthread_join(hold->philos[j].t, NULL) != 0)
+			return (pthread_join_fail());
 		j++;
 	}
+	if (hold->philos_n == 1)
+		pthread_mutex_unlock(&hold->forks[0]);
+	j = 0;
+	while (j < hold->forks_n)
+	{
+		if (pthread_mutex_destroy(&hold->forks[j]) != 0)
+			return (mutex_destroy_fail());
+		j++;
+	}
+	if (pthread_mutex_destroy(&hold->msg) != 0)
+		return (mutex_destroy_fail());
 	free(hold->philos);
 	free(hold->forks);
-	if (flag != 0)
-		return (1);
 	return (0);
 }

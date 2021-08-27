@@ -1,10 +1,11 @@
 NAME = philo
 
 SRC = philo.c\
+parse.c\
 living.c\
 msg_lock.c\
 ft_atoi.c\
-malloc_fail.c\
+msg_fail.c\
 init_struct.c\
 init_philos.c\
 init_forks.c\

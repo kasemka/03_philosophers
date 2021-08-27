@@ -13,22 +13,12 @@ void	start_time_record(t_hold *hold)
 	}
 }
 
-void	eating(t_philo *philo)
-{
-	philo->last_eat = cur_time_mcs();
-	msg(philo, 'e');
-	philo->eat_num++;
-	if (philo->eat_num == philo->hold->eat_num)
-		philo->hold->min_eat++;
-	ft_usleep(philo->hold->time_eat);
-}
-
 void	living(void *a_philo)
 {
 	t_philo		*philo;
 
 	philo = (t_philo *)a_philo;
-	while (philo->hold->is_dead == 0)
+	while (philo->hold->stop_sim == 0)
 	{
 		pthread_mutex_lock(philo->fork_left);
 		msg(philo, 'l');
@@ -36,11 +26,16 @@ void	living(void *a_philo)
 			break ;
 		pthread_mutex_lock(philo->fork_right);
 		msg(philo, 'r');
-		eating(philo);
+		philo->last_eat = cur_time_mcs();
+		msg(philo, 'e');
+		philo->eat_num++;
+		if (philo->eat_num == philo->hold->eat_num)
+			philo->hold->min_eat++;
+		ft_usleep(philo->hold->time_eat, philo->hold->stop_sim);
 		pthread_mutex_unlock(philo->fork_left);
 		pthread_mutex_unlock(philo->fork_right);
 		msg(philo, 's');
-		ft_usleep(philo->hold->time_sleep);
+		ft_usleep(philo->hold->time_sleep, philo->hold->stop_sim);
 		msg(philo, 't');
 	}
 }
@@ -53,21 +48,23 @@ void	catch_dead(void *a_hold)
 
 	i = 0;
 	hold = (t_hold *)a_hold;
-	while (i < hold->philos_n && hold->min_eat != hold->philos_n && \
-	hold->is_dead == 0)
+	while (1)
 	{
-		if (cur_time_mcs() - hold->philos[i].last_eat >= hold->time_die)
+		if (cur_time_mcs() - hold->philos[i].last_eat > hold->time_die || \
+		hold->min_eat == hold->philos_n)
 		{
-			hold->is_dead = 1;
 			pthread_mutex_lock(&hold->msg);
 			time_diff = (cur_time_mcs() - hold->start_time) / 1000;
-			printf("%llu philo %i died\n", time_diff, hold->philos[i].name);
+			if (hold->min_eat != hold->philos_n && hold->stop_sim == 0)
+				printf("%llu philo %i died\n", time_diff, hold->philos[i].name);
+			hold->stop_sim = 1;
+			pthread_mutex_unlock(&hold->msg);
 			break ;
 		}
 		i++;
 		if (i == hold->philos_n)
 			i = 0;
-		ft_usleep(100);
+		ft_usleep(100, hold->stop_sim);
 	}
 }
 
@@ -79,17 +76,13 @@ int	start_process(t_hold *hd)
 	start_time_record(hd);
 	while (i < hd->philos_n)
 	{
-		if (pthread_create(&hd->philos[i].t, NULL, (void *)living, \
-		&hd->philos[i]) != 0)
-		{
-			hd->philos_n = i;
-			return (end_threads(hd, 2));
-		}
-		pthread_detach(hd->philos[i].t);
+		if (pthread_create(&hd->philos[i].t, NULL, \
+		(void *)living, &hd->philos[i]) != 0)
+			return (pthread_create_fail());
 		i++;
-		ft_usleep(10);
+		ft_usleep(30, hd->stop_sim);
 	}
 	if (pthread_create(&hd->starving, NULL, (void *)catch_dead, hd) != 0)
-		return (end_threads(hd, 2));
+		return (pthread_create_fail());
 	return (0);
 }

@@ -15,22 +15,20 @@ void	clear_mutex_forks(t_hold *hold, int i)
 
 int	init_forks(t_hold *hold)
 {
-	pthread_mutex_t		*forks_arr;
 	int					i;
 
 	i = 0;
-	forks_arr = malloc(sizeof(pthread_mutex_t) * hold->forks_n);
-	if (forks_arr == NULL)
+	hold->forks = malloc(sizeof(pthread_mutex_t) * hold->forks_n);
+	if (hold->forks == NULL)
 		return (malloc_fail());
 	while (i < hold->forks_n)
 	{
-		if (pthread_mutex_init(&forks_arr[i], NULL) != 0)
+		if (pthread_mutex_init(&hold->forks[i], NULL) != 0)
 		{
 			clear_mutex_forks(hold, i - 1);
 			return (1);
 		}
 		i++;
 	}
-	hold->forks = forks_arr;
 	return (0);
 }
