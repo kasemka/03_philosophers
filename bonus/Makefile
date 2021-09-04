@@ -5,7 +5,9 @@ parse.c\
 msg_fail.c\
 init_struct.c\
 ft_atoi.c\
-time_correct.c
+time_correct.c\
+end_processes.c\
+msg_lock.c
 
 HEADER = philo_bonus.h
 OBJ = $(SRC:.c=.o)
@@ -28,6 +30,8 @@ clean:
 fclean:	clean
 	rm -f $(NAME)
 
+debug:
+	gcc -g $(SRC) -o philo_bonus
 re:	fclean all
 
 .PHONY: all clean fclean re

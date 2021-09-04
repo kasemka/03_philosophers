@@ -13,7 +13,8 @@ int	init_struct(int argc, char **argv, t_hold *hold)
 		hold->eat_num_min = -1;
 	if (argc == 6 && hold->eat_num_min <= 0)
 		return (1);
-//	hold->stop_sim = 0;
-//	hold->min_eat = 0;
+	hold->stop_sim = 0;
+	hold->name = 0;
+	hold->eat_num = 0;
 	return (0);
 }
